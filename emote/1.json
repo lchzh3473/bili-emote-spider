@@ -3,8 +3,8 @@
 		{
 			"id": 1,
 			"text": "小黄脸",
-			"url": "https://i0.hdslb.com/bfs/emote/f9157d9fa5ac3b8339cb8a8b7ad70eb40d4113c9.png",
-			"mtime": 1669206817,
+			"url": "https://i0.hdslb.com/bfs/emote/fa6dda8b876ed38609de38aa604be5ad109b8591.png",
+			"mtime": 1672488354,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -12,6 +12,26 @@
 				"item_id": 958
 			},
 			"emote": [
+				{
+					"id": 13208,
+					"package_id": 1,
+					"text": "[2023]",
+					"url": "https://i0.hdslb.com/bfs/emote/fa6dda8b876ed38609de38aa604be5ad109b8591.png",
+					"mtime": 1672488217,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							"2023"
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
 				{
 					"id": 11054,
 					"package_id": 1,
@@ -1700,6 +1720,26 @@
 					"text": "[保佑]",
 					"url": "https://i0.hdslb.com/bfs/emote/fafe8d3de0dc139ebe995491d2dac458a865fb30.png",
 					"mtime": 1668688325,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 1887,
+					"package_id": 1,
+					"text": "[福]",
+					"url": "https://i0.hdslb.com/bfs/emote/802429a301ac5b35a0480d9526a070ce67cd8097.png",
+					"mtime": 1672488217,
 					"type": 1,
 					"attr": 0,
 					"meta": {
