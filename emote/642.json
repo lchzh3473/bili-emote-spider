@@ -4,7 +4,7 @@
 			"id": 642,
 			"text": "2022王者世冠限时",
 			"url": "https://i0.hdslb.com/bfs/garb/item/7807912cc2494c7db4603e735c8e7c1200d483ff.png",
-			"mtime": 1669789175,
+			"mtime": 1671640938,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -12,6 +12,48 @@
 				"item_id": 41733
 			},
 			"emote": [
+				{
+					"id": 11552,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_痛苦面具]",
+					"url": "https://i0.hdslb.com/bfs/garb/item/9f4a9cb2f5296676b2e7930729dc2a51cf3e2e56.png",
+					"mtime": 1671560727,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "痛苦面具"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 11553,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_刺痛我]",
+					"url": "https://i0.hdslb.com/bfs/garb/item/f6e84483b5e341b0b8d1567d4e2e1433b0f02651.png",
+					"mtime": 1671640938,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "刺痛我"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
 				{
 					"id": 11554,
 					"package_id": 642,
@@ -47,6 +89,27 @@
 							""
 						],
 						"alias": "我来C"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 11556,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_加鸡腿]",
+					"url": "https://i0.hdslb.com/bfs/garb/item/dccd47d352bc5e15650d33fb0f2e3a298779b246.png",
+					"mtime": 1671560727,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "加鸡腿"
 					},
 					"flags": {
 						"no_access": true,
@@ -425,6 +488,153 @@
 							""
 						],
 						"alias": "被驴踢了"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 12666,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_冲冲冲]",
+					"url": "https://i0.hdslb.com/bfs/emote/2cbc42c18788017561a45051b11e92a07627b4b2.png",
+					"mtime": 1671640537,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "冲冲冲"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 12667,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_冠军]",
+					"url": "https://i0.hdslb.com/bfs/emote/8ec29ad905124c772447377e9a383b2cfce562c9.png",
+					"mtime": 1671640537,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "冠军"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 12668,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_无人在易]",
+					"url": "https://i0.hdslb.com/bfs/emote/7f153937e38e9ebdcdaa7307db6b226f00b23ef3.png",
+					"mtime": 1671640537,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "无人在易"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 12669,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_无限猖狂]",
+					"url": "https://i0.hdslb.com/bfs/emote/54d029e23967df154e006b7d43b03db665b2469d.png",
+					"mtime": 1671640537,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "无限猖狂"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 12671,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_驯龙高手]",
+					"url": "https://i0.hdslb.com/bfs/emote/429e8a66c7516aff6991f133fc3ab55bc98a2367.png",
+					"mtime": 1671640938,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "驯龙高手"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 12672,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_彻底疯狂]",
+					"url": "https://i0.hdslb.com/bfs/emote/e49d129a036856134b05738801d4ceb6eefaabcc.png",
+					"mtime": 1671640938,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "彻底疯狂"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 12673,
+					"package_id": 642,
+					"text": "[2022王者世冠限时_KPL出手]",
+					"url": "https://i0.hdslb.com/bfs/emote/e086534d5d5f963b0a94192ff4b1ba53bbb04c15.png",
+					"mtime": 1671640938,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "KPL出手"
 					},
 					"flags": {
 						"no_access": true,
