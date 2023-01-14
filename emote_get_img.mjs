@@ -4,8 +4,8 @@ const em_path = 'emote';
 const im_path = 'emote_img';
 const pk_path = 'emote_pkg';
 const escape = str => str.replace(/[\\\/:*?"<>|]/g, a => `%${a.charCodeAt().toString(16).toUpperCase()}`);
-for (const i of fs.readdirSync(im_path)) fs.unlinkSync(`${im_path}/${i}`); //delete
-for (const i of fs.readdirSync(pk_path)) fs.unlinkSync(`${pk_path}/${i}`); //delete
+// for (const i of fs.readdirSync(im_path)) fs.unlinkSync(`${im_path}/${i}`); //delete
+// for (const i of fs.readdirSync(pk_path)) fs.unlinkSync(`${pk_path}/${i}`); //delete
 const arr = await fs.promises.readdir(em_path);
 for (const e of arr) {
 	const pkg = JSON.parse(fs.readFileSync(`${em_path}/${e}`))?.packages?.[0]; //
@@ -19,7 +19,7 @@ for (const e of arr) {
 		const sha1 = createHash('sha1').update(buffer).digest('hex');
 		const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.${ext}`;
 		console.log(id, name);
-		fs.writeFileSync(`${pk_path}/${name}`, buffer);
+		if (!fs.existsSync(`${pk_path}/${name}`)) fs.writeFileSync(`${pk_path}/${name}`, buffer);
 	}
 	for (const e of pkg?.emote || []) {
 		const { id, text, url, gif_url, type } = e;
@@ -29,7 +29,7 @@ for (const e of arr) {
 			const sha1 = createHash('sha1').update(buffer).digest('hex');
 			const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.txt`;
 			console.log(id, name);
-			fs.writeFileSync(`${im_path}/${name}`, buffer);
+			if (!fs.existsSync(`${im_path}/${name}`)) fs.writeFileSync(`${im_path}/${name}`, buffer);
 		} else {
 			const url_splited = url.split('@')[0];
 			const ext = url_splited.split('.').pop();
@@ -37,14 +37,14 @@ for (const e of arr) {
 			const buffer = Buffer.from(await response.arrayBuffer());
 			const sha1 = createHash('sha1').update(buffer).digest('hex');
 			const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.${ext}`;
-			fs.writeFileSync(`${im_path}/${name}`, buffer);
+			if (!fs.existsSync(`${im_path}/${name}`)) fs.writeFileSync(`${im_path}/${name}`, buffer);
 		}
 		if (gif_url) {
 			const response = await fetch(gif_url);
 			const buffer = Buffer.from(await response.arrayBuffer());
 			const sha1 = createHash('sha1').update(buffer).digest('hex');
 			const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.gif`;
-			fs.writeFileSync(`${im_path}/${name}`, buffer);
+			if (!fs.existsSync(`${im_path}/${name}`)) fs.writeFileSync(`${im_path}/${name}`, buffer);
 		}
 	}
 }

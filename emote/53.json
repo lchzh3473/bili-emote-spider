@@ -3,8 +3,8 @@
 		{
 			"id": 53,
 			"text": "热词系列一",
-			"url": "https://i0.hdslb.com/bfs/emote/21f15fe11b7a84d2f2121c16dec50a4e4556f865.png",
-			"mtime": 1672126773,
+			"url": "https://i0.hdslb.com/bfs/emote/8de880a58fada7e0e668f2f47dabf0c223de4e58.png",
+			"mtime": 1673444748,
 			"type": 1,
 			"attr": 2,
 			"meta": {
@@ -12,6 +12,30 @@
 				"item_id": 1039
 			},
 			"emote": [
+				{
+					"id": 13712,
+					"package_id": 53,
+					"text": "[念诗之王]",
+					"url": "https://i0.hdslb.com/bfs/emote/8de880a58fada7e0e668f2f47dabf0c223de4e58.png",
+					"mtime": 1673444748,
+					"type": 1,
+					"attr": 2,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							"念诗之王",
+							"一亿",
+							"1亿",
+							"亿"
+						],
+						"alias": "念诗之王"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
 				{
 					"id": 1483,
 					"package_id": 53,
@@ -1015,6 +1039,27 @@
 					"activity": null
 				},
 				{
+					"id": 1869,
+					"package_id": 53,
+					"text": "[热词系列_神仙UP]",
+					"url": "https://i0.hdslb.com/bfs/emote/a49e0d0db1e7d35a0f7411be13208951ab448f03.png",
+					"mtime": 1671778768,
+					"type": 1,
+					"attr": 2,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "神仙UP"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 2021,
 					"package_id": 53,
 					"text": "[热词系列_问号]",
@@ -1133,27 +1178,6 @@
 							""
 						],
 						"alias": "我全都要"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 1869,
-					"package_id": 53,
-					"text": "[热词系列_神仙UP]",
-					"url": "https://i0.hdslb.com/bfs/emote/a49e0d0db1e7d35a0f7411be13208951ab448f03.png",
-					"mtime": 1671778768,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							""
-						],
-						"alias": "神仙UP"
 					},
 					"flags": {
 						"no_access": true,
