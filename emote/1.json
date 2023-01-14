@@ -4,7 +4,7 @@
 			"id": 1,
 			"text": "小黄脸",
 			"url": "https://i0.hdslb.com/bfs/emote/fa6dda8b876ed38609de38aa604be5ad109b8591.png",
-			"mtime": 1673355924,
+			"mtime": 1673589384,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -1426,26 +1426,6 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 5264,
-					"package_id": 1,
-					"text": "[弹幕破百亿]",
-					"url": "https://i0.hdslb.com/bfs/emote/80891223ba023dff3141e377f4ea3b89918eb6a4.png",
-					"mtime": 1668688325,
-					"type": 1,
-					"attr": 0,
-					"meta": {
-						"size": 1,
-						"suggest": [
-							"弹幕"
 						]
 					},
 					"flags": {
