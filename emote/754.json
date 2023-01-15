@@ -4,7 +4,7 @@
 			"id": 754,
 			"text": "花卷羊",
 			"url": "https://i0.hdslb.com/bfs/garb/item/fb43b16846e68cc6cf0ce1f04886c03c49f6fee8.png",
-			"mtime": 1673431999,
+			"mtime": 1673777106,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -215,6 +215,132 @@
 							""
 						],
 						"alias": "打咩"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14044,
+					"package_id": 754,
+					"text": "[花卷羊_干杯]",
+					"url": "https://i0.hdslb.com/bfs/emote/6795e28ef11450e1b18a01b40830016203c6c756.png",
+					"mtime": 1673777106,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "干杯"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14045,
+					"package_id": 754,
+					"text": "[花卷羊_看看]",
+					"url": "https://i0.hdslb.com/bfs/emote/b6f87fd50454874331dad17c3f9e1dfeaf5604e8.png",
+					"mtime": 1673777106,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "看看"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14046,
+					"package_id": 754,
+					"text": "[花卷羊_燃起来了]",
+					"url": "https://i0.hdslb.com/bfs/emote/d6d75dea96ef0dfded7c2bd62d1d05eac2ac79d4.png",
+					"mtime": 1673777106,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "燃起来了"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14047,
+					"package_id": 754,
+					"text": "[花卷羊_生气]",
+					"url": "https://i0.hdslb.com/bfs/emote/f2ce302d071ff25858bf1b2a1b802012317d6430.png",
+					"mtime": 1673777106,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "生气"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14048,
+					"package_id": 754,
+					"text": "[花卷羊_问号]",
+					"url": "https://i0.hdslb.com/bfs/emote/337c0dd61d77df5d8e6a2a1f907c2940c5de96df.png",
+					"mtime": 1673777106,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "问号"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14049,
+					"package_id": 754,
+					"text": "[花卷羊_应得的]",
+					"url": "https://i0.hdslb.com/bfs/emote/d05d1eeaaf602f6ba9034ccbcdb03ab32255ef47.png",
+					"mtime": 1673777106,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "应得的"
 					},
 					"flags": {
 						"no_access": true,
