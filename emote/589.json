@@ -4,7 +4,7 @@
 			"id": 589,
 			"text": "露早GOGO",
 			"url": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
-			"mtime": 1674128413,
+			"mtime": 1674179817,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -320,6 +320,216 @@
 							""
 						],
 						"alias": "宅家"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14392,
+					"package_id": 589,
+					"text": "[露早GOGO_补签卡]",
+					"url": "https://i0.hdslb.com/bfs/emote/7de2f2ab40f4ea71856642dbc147f11e484cbe21.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "补签卡"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14393,
+					"package_id": 589,
+					"text": "[露早GOGO_蒽，]",
+					"url": "https://i0.hdslb.com/bfs/emote/7ecd83d20fe81aa07113f46295640e9f959909e0.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "蒽，"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14394,
+					"package_id": 589,
+					"text": "[露早GOGO_公主殿下]",
+					"url": "https://i0.hdslb.com/bfs/emote/1f0c3bbe1ec806153bcf0c2099248e12bc17ee9d.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "公主殿下"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14395,
+					"package_id": 589,
+					"text": "[露早GOGO_敬礼]",
+					"url": "https://i0.hdslb.com/bfs/emote/a29c5bbeeb7e49284647745310769e637cf3f135.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "敬礼"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14396,
+					"package_id": 589,
+					"text": "[露早GOGO_流汗]",
+					"url": "https://i0.hdslb.com/bfs/emote/7f726e9d8e4eeaca26f6a1d2c16844145a63e533.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "流汗"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14397,
+					"package_id": 589,
+					"text": "[露早GOGO_哇袄]",
+					"url": "https://i0.hdslb.com/bfs/emote/8eeeaf69e67bdb3d4ff67312ce729ce0597fa69a.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "哇袄"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14398,
+					"package_id": 589,
+					"text": "[露早GOGO_谢谢你]",
+					"url": "https://i0.hdslb.com/bfs/emote/49a2b4c0c7ff838bec50addc08ebfc2d31a7e635.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "谢谢你"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14399,
+					"package_id": 589,
+					"text": "[露早GOGO_早]",
+					"url": "https://i0.hdslb.com/bfs/emote/61779147fdf8a0d0731d55d76bcfa3a5072f7877.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "早"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14400,
+					"package_id": 589,
+					"text": "[露早GOGO_EOE]",
+					"url": "https://i0.hdslb.com/bfs/emote/a435586a43b72f0509db7a3e9aee75d664304e3b.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "EOE"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 14401,
+					"package_id": 589,
+					"text": "[露早GOGO_GO叫]",
+					"url": "https://i0.hdslb.com/bfs/emote/95a9ab8812814f1bb16d38460a5ec67f922884ec.png",
+					"mtime": 1674179817,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "GO叫"
 					},
 					"flags": {
 						"no_access": true,
