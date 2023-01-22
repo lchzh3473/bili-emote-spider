@@ -13,39 +13,6 @@
 			},
 			"emote": [
 				{
-					"id": 12794,
-					"package_id": 53,
-					"text": "[热词系列_大展宏兔]",
-					"url": "https://i0.hdslb.com/bfs/emote/6770dc99d76a8453bb6337ffdb44e8fa7ba10815.png",
-					"mtime": 1673625594,
-					"type": 8,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"label_text": "限时",
-						"label_color": "#FF20AAe2",
-						"suggest": [
-							""
-						],
-						"alias": "大展宏兔"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": {
-						"title": "大展宏兔",
-						"start_time": 1673625600,
-						"end_time": 1674300300,
-						"jump_url": "https://www.bilibili.com/blackboard/bnj2023-m.html?auto_media_playback=1&msource=biaoqingbao",
-						"unlock_descs": [
-							"预约除夕夜拜年纪并签到1次，领取定制表情",
-							"活动截至2023-01-21 19:25"
-						],
-						"jump_btn_desc": "前往活动解锁"
-					}
-				},
-				{
 					"id": 3217,
 					"package_id": 53,
 					"text": "[热词系列_新年快乐]",
