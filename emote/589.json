@@ -4,7 +4,7 @@
 			"id": 589,
 			"text": "露早GOGO",
 			"url": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
-			"mtime": 1674179817,
+			"mtime": 1675151747,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -498,9 +498,9 @@
 				{
 					"id": 14400,
 					"package_id": 589,
-					"text": "[露早GOGO_EOE]",
+					"text": "[露早GOGO_我们是EOE]",
 					"url": "https://i0.hdslb.com/bfs/emote/a435586a43b72f0509db7a3e9aee75d664304e3b.png",
-					"mtime": 1674179817,
+					"mtime": 1675151747,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -508,7 +508,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "EOE"
+						"alias": "我们是EOE"
 					},
 					"flags": {
 						"no_access": true,

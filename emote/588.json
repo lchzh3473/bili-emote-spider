@@ -4,7 +4,7 @@
 			"id": 588,
 			"text": "莞儿睡不醒",
 			"url": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
-			"mtime": 1674183528,
+			"mtime": 1675151769,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -330,9 +330,9 @@
 				{
 					"id": 14412,
 					"package_id": 588,
-					"text": "[莞儿睡不醒_EOE]",
+					"text": "[莞儿睡不醒_我们是EOE]",
 					"url": "https://i0.hdslb.com/bfs/emote/135711bffa7b3374fde7727b6f7cde301d990334.png",
-					"mtime": 1674179746,
+					"mtime": 1675151769,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -340,7 +340,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "EOE"
+						"alias": "我们是EOE"
 					},
 					"flags": {
 						"no_access": true,
