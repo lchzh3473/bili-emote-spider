@@ -4,7 +4,7 @@
 			"id": 658,
 			"text": "绘之音（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/214ff0fbcc66a32f326f85416bc2a006c2e46d36.png",
-			"mtime": 1672475816,
+			"mtime": 1677208139,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -166,24 +166,6 @@
 					"meta": {
 						"size": 2,
 						"alias": "感兴趣"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 13207,
-					"package_id": 658,
-					"text": "[UPOWER_4637682_QAQ]",
-					"url": "https://i0.hdslb.com/bfs/garb/6fad3b614b319656765889a26208f04d3fddfc79.png",
-					"mtime": 1672545190,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "QAQ"
 					},
 					"flags": {
 						"no_access": true,

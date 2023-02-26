@@ -4,7 +4,7 @@
 			"id": 1,
 			"text": "小黄脸",
 			"url": "https://i0.hdslb.com/bfs/emote/fa6dda8b876ed38609de38aa604be5ad109b8591.png",
-			"mtime": 1674208156,
+			"mtime": 1677063781,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -2440,6 +2440,106 @@
 					"text": "[奥比岛_喜欢]",
 					"url": "https://i0.hdslb.com/bfs/emote/ed64e0c81ee194138bd9df30c65077ed978fb88c.png",
 					"mtime": 1668688325,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 15717,
+					"package_id": 1,
+					"text": "[黎明觉醒_怒了鸦]",
+					"url": "https://i0.hdslb.com/bfs/emote/078991ad7546f2fefb79c05894d5f0431736d1e7.png",
+					"mtime": 1677063781,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 15718,
+					"package_id": 1,
+					"text": "[黎明觉醒_石化鸦]",
+					"url": "https://i0.hdslb.com/bfs/emote/40bc09683e3b93390995b9ea5dc64f982b34e347.png",
+					"mtime": 1677063781,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 15719,
+					"package_id": 1,
+					"text": "[黎明觉醒_摊手鸦]",
+					"url": "https://i0.hdslb.com/bfs/emote/883e4caa8e1745f48de0671c6441810faa4a56ed.png",
+					"mtime": 1677063781,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 15720,
+					"package_id": 1,
+					"text": "[黎明觉醒_比心鸦]",
+					"url": "https://i0.hdslb.com/bfs/emote/e25f5442c5bce2a54b9c757e3032f44398f1a7df.png",
+					"mtime": 1677063781,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 15721,
+					"package_id": 1,
+					"text": "[黎明觉醒_哼白眼鸦]",
+					"url": "https://i0.hdslb.com/bfs/emote/36de90dbaffeb32477dffdac612ad69da4e19b76.png",
+					"mtime": 1677063781,
 					"type": 1,
 					"attr": 0,
 					"meta": {
