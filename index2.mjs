@@ -1,13 +1,4 @@
 import fs from 'fs';
-const tid = '617817421902194072';
-const dynamic_url = `https://t.bilibili.com/${tid}`;
-const dynamic_detail_url = `https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=${tid}`;
-// const dynamic_reply_url = `https://api.bilibili.com/x/v2/reply?ps=20&pn=1&type=11&oid=778902721746960423&sort=0&nohot=1&root=778902721746960423`;
-// 输出fetch到文件
-const raw = await fetch(dynamic_detail_url, { headers: { referer: dynamic_url } }); //不加headers会-412
-const { data } = await raw.json();
-const { comment_id_str, comment_type } = data.item.basic;
-fs.writeFileSync(`dynamic/${tid}.json`, JSON.stringify(data, null, '\t'));
 const dateFormater = new Intl.DateTimeFormat('zh-CN', {
 	timeZone: 'Asia/Shanghai',
 	year: 'numeric',
@@ -17,17 +8,17 @@ const dateFormater = new Intl.DateTimeFormat('zh-CN', {
 	minute: '2-digit',
 	second: '2-digit'
 });
-let dataText = '';
-const { module_author: { pub_ts, name, mid }, module_dynamic: { desc, major }, module_stat: { comment, forward, like } } = data.item.modules;
-dataText += `${dateFormater.format(new Date(pub_ts*1000))} ${name}(${mid}) 转发${forward.count} 评论${comment.count} 点赞${like.count} \n\n`;
-dataText += `【正文】\n`;
-dataText += `${desc.text}\n\n`;
-if (major) {
-	dataText += `【图片】\n`;
-	for (const { src } of major.draw.items) {
-		dataText += `${src}\n`;
-	}
-}
+const tid = '687383861901918226';
+const comment_type = 11;
+const comment_id_str = '201794993';
+let dataText = `2022/07/27 08:41:08 lchzh3473(274753872) 转发10 评论52 点赞280 
+
+【正文】
+模拟器开发进度因设备兼容问题陷入停滞[tv_大哭]\n-\n半死不活的lchzh突然开始找我要零花钱（划掉
+
+【图片】
+https://i0.hdslb.com/bfs/new_dyn/f55eddde61b4df7bbaaa8db0ebe7554a274753872.jpg
+`;
 dataText += `\n【评论】\n`;
 dataText += await getReply();
 fs.writeFileSync(`dynamic/${tid}.txt`, dataText);
@@ -40,7 +31,7 @@ async function getReply() {
 	for (let i = 1; i < 1000; i++) {
 		const response = await fetch(`https://api.bilibili.com/x/v2/reply?ps=20&pn=${i}&type=${comment_type}&oid=${comment_id_str}&sort=0`);
 		const { data } = await response.json();
-		if (data.replies) {
+		if (data.replies && data.replies.length > 0) {
 			writePage(data);
 			for (const reply of data.replies) {
 				const detail = await getDetail(reply, 1);
@@ -58,7 +49,7 @@ async function getReply2(rpid) {
 	for (let i = 1; i < 1000; i++) {
 		const response = await fetch(`https://api.bilibili.com/x/v2/reply/reply?ps=20&pn=${i}&type=${comment_type}&oid=${comment_id_str}&root=${rpid}`);
 		const { data } = await response.json();
-		if (data.replies) {
+		if (data.replies && data.replies.length > 0) {
 			for (const reply of data.replies) {
 				const detail = await getDetail(reply, 2);
 				comments.push(detail);
