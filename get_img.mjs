@@ -1,8 +1,8 @@
 import fs from 'fs';
 import { createHash } from 'crypto';
-const em_path = 'emote';
-const im_path = 'emote_img';
-const pk_path = 'emote_pkg';
+const em_path = 'meta';
+const im_path = 'img';
+const pk_path = 'pkg';
 const escape = str => str.replace(/[\\\/:*?"<>|]/g, a => `%${a.charCodeAt().toString(16).toUpperCase()}`);
 // for (const i of fs.readdirSync(im_path)) fs.unlinkSync(`${im_path}/${i}`); //delete
 // for (const i of fs.readdirSync(pk_path)) fs.unlinkSync(`${pk_path}/${i}`); //delete
