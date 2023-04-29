@@ -1,7 +1,14 @@
 import fs from 'fs';
+const infinityFetch = async (...arg) => {
+	try {
+		return await fetch(...arg);
+	} catch {
+		return await infinityFetch(...arg);
+	}
+};
 const em_path = 'meta';
 async function getEmote(id) {
-	const response = await fetch(`https://api.bilibili.com/x/emote/package?business=reply&ids=${id}`);
+	const response = await infinityFetch(`https://api.bilibili.com/x/emote/package?business=reply&ids=${id}`);
 	const { data } = await response.json();
 	return data;
 }

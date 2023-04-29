@@ -1,5 +1,12 @@
 import fs from 'fs';
 import { createHash } from 'crypto';
+const infinityFetch = async (...arg) => {
+	try {
+		return await fetch(...arg);
+	} catch {
+		return await infinityFetch(...arg);
+	}
+};
 const em_path = 'meta';
 const im_path = 'img';
 const pk_path = 'pkg';
@@ -14,7 +21,7 @@ for (const e of arr) {
 		const id_str = String(id).padStart(4, '0');
 		const url_str = url.split('@')[0];
 		const ext = url_str.split('.').pop();
-		const response = await fetch(url_str);
+		const response = await infinityFetch(url_str);
 		const buffer = Buffer.from(await response.arrayBuffer());
 		const sha1 = createHash('sha1').update(buffer).digest('hex');
 		const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.${ext}`;
@@ -33,14 +40,14 @@ for (const e of arr) {
 		} else {
 			const url_splited = url.split('@')[0];
 			const ext = url_splited.split('.').pop();
-			const response = await fetch(url_splited);
+			const response = await infinityFetch(url_splited);
 			const buffer = Buffer.from(await response.arrayBuffer());
 			const sha1 = createHash('sha1').update(buffer).digest('hex');
 			const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.${ext}`;
 			if (!fs.existsSync(`${im_path}/${name}`)) fs.writeFileSync(`${im_path}/${name}`, buffer);
 		}
 		if (gif_url) {
-			const response = await fetch(gif_url);
+			const response = await infinityFetch(gif_url);
 			const buffer = Buffer.from(await response.arrayBuffer());
 			const sha1 = createHash('sha1').update(buffer).digest('hex');
 			const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.gif`;
