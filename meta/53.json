@@ -4,7 +4,7 @@
 			"id": 53,
 			"text": "热词系列一",
 			"url": "https://i0.hdslb.com/bfs/emote/8d962fcf0b18761d5f4315a49b7ae428da08cf4a.png",
-			"mtime": 1685091420,
+			"mtime": 1685548415,
 			"type": 1,
 			"attr": 2,
 			"meta": {
@@ -12,6 +12,74 @@
 				"item_id": 1039
 			},
 			"emote": [
+				{
+					"id": 29903,
+					"package_id": 53,
+					"text": "[热词系列_永远做小孩]",
+					"url": "https://i0.hdslb.com/bfs/emote/b0388ce3ff171f913f4d46324697ea16d6c79fe4.png",
+					"mtime": 1685548415,
+					"type": 8,
+					"attr": 2,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							"永远做小孩",
+							"六一"
+						],
+						"alias": "永远做小孩"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "六一儿童节限定",
+						"start_time": 1685548800,
+						"end_time": 1688140740,
+						"jump_url": "https://www.bilibili.com/blackboard/activity-1tKraEnuw1.html",
+						"unlock_descs": [
+							"2023年6月30日之前在哔哩哔哩公益平台捐赠过爱心的大好人可领取",
+							"活动截至2023-06-30 23:59"
+						],
+						"jump_btn_desc": "前往活动解锁"
+					}
+				},
+				{
+					"id": 29904,
+					"package_id": 53,
+					"text": "[热词系列_贴贴]",
+					"url": "https://i0.hdslb.com/bfs/emote/1fb3757c3111137b64354989e14a69fd12b36334.png",
+					"mtime": 1685548415,
+					"type": 8,
+					"attr": 2,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							"贴贴",
+							"六一"
+						],
+						"alias": "贴贴"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "公益贴贴计划",
+						"start_time": 1685548800,
+						"end_time": 1688140740,
+						"jump_url": "https://www.bilibili.com/blackboard/activity-1tKraEnuw1.html",
+						"unlock_descs": [
+							"2023年6月1日至6月30日通过活动页发布动态带上话题#公益贴贴计划#即可领取",
+							"活动截至2023-06-30 23:59"
+						],
+						"jump_btn_desc": "前往活动解锁"
+					}
+				},
 				{
 					"id": 14690,
 					"package_id": 53,
