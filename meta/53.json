@@ -4,7 +4,7 @@
 			"id": 53,
 			"text": "热词系列一",
 			"url": "https://i0.hdslb.com/bfs/emote/8d962fcf0b18761d5f4315a49b7ae428da08cf4a.png",
-			"mtime": 1685548415,
+			"mtime": 1686819529,
 			"type": 1,
 			"attr": 2,
 			"meta": {
@@ -138,174 +138,6 @@
 							""
 						],
 						"alias": "我故意的"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 3217,
-					"package_id": 53,
-					"text": "[热词系列_新年快乐]",
-					"url": "https://i0.hdslb.com/bfs/emote/05f5ed97e0c1a5db112327fd60c69f9ac10ddb00.png",
-					"mtime": 1674208018,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							""
-						],
-						"alias": "新年快乐"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 5859,
-					"package_id": 53,
-					"text": "[热词系列_恭喜发财]",
-					"url": "https://i0.hdslb.com/bfs/emote/f4e045106b1ff903afe89af8c429dac0af3a6860.png",
-					"mtime": 1674208018,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							""
-						],
-						"alias": "恭喜发财"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 5858,
-					"package_id": 53,
-					"text": "[热词系列_大吉大利]",
-					"url": "https://i0.hdslb.com/bfs/emote/dc35bad74890daccb913bf7a78da0c6e857f75b4.png",
-					"mtime": 1674208018,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							""
-						],
-						"alias": "大吉大利"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 5863,
-					"package_id": 53,
-					"text": "[热词系列_身体健康]",
-					"url": "https://i0.hdslb.com/bfs/emote/936a6560f5c50d97385213fba0f17e3582c06dd8.png",
-					"mtime": 1674208018,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							""
-						],
-						"alias": "身体健康"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 5771,
-					"package_id": 53,
-					"text": "[热词系列_红红火火]",
-					"url": "https://i0.hdslb.com/bfs/emote/493f8063a3c02ae81157d532bb2d9c8067d47144.png",
-					"mtime": 1674208018,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							"hhhh"
-						],
-						"alias": "红红火火"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 5864,
-					"package_id": 53,
-					"text": "[热词系列_升职加薪]",
-					"url": "https://i0.hdslb.com/bfs/emote/129f1ff059d86c95ce752415c799dcf808b878ef.png",
-					"mtime": 1674208018,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							""
-						],
-						"alias": "升职加薪"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 5857,
-					"package_id": 53,
-					"text": "[热词系列_吃嘛嘛香]",
-					"url": "https://i0.hdslb.com/bfs/emote/1d44f7670af0b4e854bcb73fb71911a0ea831432.png",
-					"mtime": 1674208018,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							"吃好喝好"
-						],
-						"alias": "吃嘛嘛香"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 5865,
-					"package_id": 53,
-					"text": "[热词系列_早日脱单]",
-					"url": "https://i0.hdslb.com/bfs/emote/8bfb7b8ed91bdd9d981889586b47e3e6142ef070.png",
-					"mtime": 1674208018,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							""
-						],
-						"alias": "早日脱单"
 					},
 					"flags": {
 						"no_access": true,
@@ -691,28 +523,6 @@
 							"燃起来了"
 						],
 						"alias": "燃起来了"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 4043,
-					"package_id": 53,
-					"text": "[热词系列_仙人指路]",
-					"url": "https://i0.hdslb.com/bfs/emote/bf7fed28bbed40f95e08f9bab78802849b10ce63.png",
-					"mtime": 1671778768,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							"新宝岛",
-							"猛男"
-						],
-						"alias": "仙人指路"
 					},
 					"flags": {
 						"no_access": true,
@@ -1500,28 +1310,6 @@
 							"爷爷你关注的"
 						],
 						"alias": "爷关更"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 6951,
-					"package_id": 53,
-					"text": "[热词系列_福建舰]",
-					"url": "https://i0.hdslb.com/bfs/emote/9713ac27523fb76904f300ba1041b92db63bb220.png",
-					"mtime": 1671778768,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							"003",
-							"福建舰"
-						],
-						"alias": "福建舰"
 					},
 					"flags": {
 						"no_access": true,

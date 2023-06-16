@@ -4,7 +4,7 @@
 			"id": 1160,
 			"text": "大会员粉豆人",
 			"url": "https://i0.hdslb.com/bfs/activity-plat/static/20230402/b259b7b0f2bb7794ccabec8d9a08f89f/PLY5JnWKgx.png",
-			"mtime": 1683950570,
+			"mtime": 1686542330,
 			"type": 2,
 			"attr": 28,
 			"meta": {
@@ -13,6 +13,27 @@
 				"vip_no_access_text": "开通大会员即可使用本套表情"
 			},
 			"emote": [
+				{
+					"id": 32530,
+					"package_id": 1160,
+					"text": "[大会员粉豆人_毕了个耶]",
+					"url": "https://i0.hdslb.com/bfs/emote/8f8cbd3df781546e5266ab87dfb13276026c1338.png",
+					"mtime": 1686542330,
+					"type": 2,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "毕了个耶"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
 				{
 					"id": 28157,
 					"package_id": 1160,
