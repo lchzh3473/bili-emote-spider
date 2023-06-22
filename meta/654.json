@@ -4,7 +4,7 @@
 			"id": 654,
 			"text": "黑猫大少爷",
 			"url": "https://i0.hdslb.com/bfs/garb/item/ce6600241aef84085db36fe766a89792972baaf7.png",
-			"mtime": 1670673093,
+			"mtime": 1687168066,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -467,6 +467,69 @@
 							""
 						],
 						"alias": "麦外敷"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 33723,
+					"package_id": 654,
+					"text": "[黑猫大少爷_不愧是我]",
+					"url": "https://i0.hdslb.com/bfs/emote/b0dc03c594a3d5b40247ad04a1e979f952bc8558.png",
+					"mtime": 1687168066,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "不愧是我"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 33724,
+					"package_id": 654,
+					"text": "[黑猫大少爷_小猫害怕]",
+					"url": "https://i0.hdslb.com/bfs/emote/7cd5dbdcdd37300d7cde8792469bdf765b09e208.png",
+					"mtime": 1687168066,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "小猫害怕"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 33725,
+					"package_id": 654,
+					"text": "[黑猫大少爷_冲冲]",
+					"url": "https://i0.hdslb.com/bfs/emote/cac044b409d56a85251a393f81f2b00d17c4e8fd.png",
+					"mtime": 1687168066,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "冲冲"
 					},
 					"flags": {
 						"no_access": true,
