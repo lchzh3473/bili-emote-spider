@@ -12,7 +12,7 @@ async function getEmote(id) {
 	const { data } = await response.json();
 	return data;
 }
-for (let i = 0; i < 2000; i++) {
+for (let i = 0; i < 3000; i++) {
 	console.log(i);
 	await new Promise(resolve => setTimeout(resolve, 500)); //sleep 0.5s
 	const data = await getEmote(i);

@@ -3,8 +3,8 @@
 		{
 			"id": 1,
 			"text": "小黄脸",
-			"url": "https://i0.hdslb.com/bfs/emote/fa6dda8b876ed38609de38aa604be5ad109b8591.png",
-			"mtime": 1682410282,
+			"url": "https://i0.hdslb.com/bfs/emote/53148f85bb7e2d8bada8cea57ee4b1f36f48237d.png",
+			"mtime": 1687709237,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -12,6 +12,26 @@
 				"item_id": 958
 			},
 			"emote": [
+				{
+					"id": 34446,
+					"package_id": 1,
+					"text": "[14周年]",
+					"url": "https://i0.hdslb.com/bfs/emote/53148f85bb7e2d8bada8cea57ee4b1f36f48237d.png",
+					"mtime": 1687709167,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
 				{
 					"id": 13208,
 					"package_id": 1,
