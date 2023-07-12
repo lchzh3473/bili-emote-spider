@@ -138,6 +138,24 @@
 					"activity": null
 				},
 				{
+					"id": 35882,
+					"package_id": 713,
+					"text": "[UPOWER_80505_舔屏幕]",
+					"url": "https://i0.hdslb.com/bfs/garb/d2a75847808d203a24707320f7317ebe42d37079.png",
+					"mtime": 1688989011,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "舔屏幕"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 12817,
 					"package_id": 713,
 					"text": "[UPOWER_80505_小垃姬]",
