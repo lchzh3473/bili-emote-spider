@@ -1,0 +1,135 @@
+{
+	"packages": [
+		{
+			"id": 2017,
+			"text": "口袋迷ag（充电）",
+			"url": "https://i0.hdslb.com/bfs/garb/a5e8075dedb84d20ee46e5f0035b1acc660c275a.png",
+			"mtime": 1688795460,
+			"type": 12,
+			"attr": 28,
+			"meta": {
+				"size": 2
+			},
+			"emote": [
+				{
+					"id": 35176,
+					"package_id": 2017,
+					"text": "[UPOWER_343348_仙布着急]",
+					"url": "https://i0.hdslb.com/bfs/garb/e362f59d5071d5390cc4176bb18c268a04924d94.png",
+					"mtime": 1688794869,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "仙布着急"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 35188,
+					"package_id": 2017,
+					"text": "[UPOWER_343348_蘑菇孢子]",
+					"url": "https://i0.hdslb.com/bfs/garb/e14e3aac4a7786691a11019c691919611a13814a.png",
+					"mtime": 1688435791,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "蘑菇孢子"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 35405,
+					"package_id": 2017,
+					"text": "[UPOWER_343348_播不播得]",
+					"url": "https://i0.hdslb.com/bfs/garb/2c479da2ba2001c0cf1255f5389b043e37a9ca65.png",
+					"mtime": 1688529588,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "播不播得"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 35571,
+					"package_id": 2017,
+					"text": "[UPOWER_343348_小绿毛虫]",
+					"url": "https://i0.hdslb.com/bfs/garb/df65c88b8a94cd9b7eb25c4c342857bb576dbc0d.png",
+					"mtime": 1688794869,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "小绿毛虫"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 35754,
+					"package_id": 2017,
+					"text": "[UPOWER_343348_孢子蘑菇]",
+					"url": "https://i0.hdslb.com/bfs/garb/754da836dfa3be57976dc20b9f28d1f6dcfe51f1.png",
+					"mtime": 1688794869,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "孢子蘑菇"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 35572,
+					"package_id": 2017,
+					"text": "[UPOWER_343348_榜一大姐]",
+					"url": "https://i0.hdslb.com/bfs/garb/c6a76e11759e215cb0ac66c39133fc9584247f29.png",
+					"mtime": 1688797056,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "榜一大姐"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				}
+			],
+			"flags": {
+				"no_access": true
+			},
+			"label": {
+				"font_color": "#FFB027",
+				"background_color": "#FFF6E4",
+				"text": "充电"
+			},
+			"package_sub_title": "",
+			"ref_mid": 343348
+		}
+	]
+}
