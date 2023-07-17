@@ -8,8 +8,8 @@ const infinityFetch = async (...arg) => {
   }
 };
 const em_path = 'meta';
-const im_path = 'img';
-const pk_path = 'pkg';
+const im_path = 'f:/archive/image-bili-emote/img';
+const pk_path = 'f:/archive/image-bili-emote/pkg';
 const escape = str => str.replace(/[\\\/:*?"<>|]/g, a => `%${a.charCodeAt().toString(16).toUpperCase()}`);
 // for (const i of fs.readdirSync(im_path)) fs.unlinkSync(`${im_path}/${i}`); //delete
 // for (const i of fs.readdirSync(pk_path)) fs.unlinkSync(`${pk_path}/${i}`); //delete
