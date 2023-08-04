@@ -4,7 +4,7 @@
 			"id": 2017,
 			"text": "口袋迷ag（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/a5e8075dedb84d20ee46e5f0035b1acc660c275a.png",
-			"mtime": 1688795460,
+			"mtime": 1691142982,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -94,6 +94,24 @@
 					"meta": {
 						"size": 2,
 						"alias": "榜一大姐"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 39214,
+					"package_id": 2017,
+					"text": "[UPOWER_343348_音箱蟀侠]",
+					"url": "https://i0.hdslb.com/bfs/garb/042d0ff2eaaf00094de08437f105df1bc62bbd2a.png",
+					"mtime": 1690769069,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "音箱蟀侠"
 					},
 					"flags": {
 						"no_access": true,

@@ -4,7 +4,7 @@
 			"id": 1,
 			"text": "小黄脸",
 			"url": "https://i0.hdslb.com/bfs/emote/53148f85bb7e2d8bada8cea57ee4b1f36f48237d.png",
-			"mtime": 1687709237,
+			"mtime": 1690945525,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -2040,6 +2040,106 @@
 					"text": "[来古-注意]",
 					"url": "https://i0.hdslb.com/bfs/emote/4b671ba32a2581cf40e5cd41c67b111eb8010de0.png",
 					"mtime": 1668688325,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 39534,
+					"package_id": 1,
+					"text": "[FGO_耶]",
+					"url": "https://i0.hdslb.com/bfs/emote/cb57c18365601d277e5a5d52b0957616d034f04c.png",
+					"mtime": 1690945525,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 39535,
+					"package_id": 1,
+					"text": "[FGO_开心]",
+					"url": "https://i0.hdslb.com/bfs/emote/300dadb9ec3cf14cf5ed55e2542947fe6e4f0295.png",
+					"mtime": 1690945525,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 39536,
+					"package_id": 1,
+					"text": "[FGO_汗]",
+					"url": "https://i0.hdslb.com/bfs/emote/93d8a770a22914ade2354ca928bb1799b2260d00.png",
+					"mtime": 1690945525,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 39537,
+					"package_id": 1,
+					"text": "[FGO_怒]",
+					"url": "https://i0.hdslb.com/bfs/emote/75ee235f331b3c714e1cfb264fff9e562b20944b.png",
+					"mtime": 1690945525,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 39538,
+					"package_id": 1,
+					"text": "[FGO_偷看]",
+					"url": "https://i0.hdslb.com/bfs/emote/b2d752b135b72a93c13b26bb0e272070a906257b.png",
+					"mtime": 1690945525,
 					"type": 1,
 					"attr": 0,
 					"meta": {
