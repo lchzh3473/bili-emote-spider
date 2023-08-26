@@ -3,8 +3,8 @@
 		{
 			"id": 53,
 			"text": "热词系列一",
-			"url": "https://i0.hdslb.com/bfs/emote/3cae536616fdd1a3c1399312381b563e54ac3271.png",
-			"mtime": 1691572949,
+			"url": "https://i0.hdslb.com/bfs/emote/e8eb4e8ae62d68ad7db176fe163a714379991a18.png",
+			"mtime": 1692878603,
 			"type": 1,
 			"attr": 2,
 			"meta": {
@@ -12,6 +12,27 @@
 				"item_id": 1039
 			},
 			"emote": [
+				{
+					"id": 40563,
+					"package_id": 53,
+					"text": "[热词系列_美貌惊人]",
+					"url": "https://i0.hdslb.com/bfs/emote/e8eb4e8ae62d68ad7db176fe163a714379991a18.png",
+					"mtime": 1692878603,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "美貌惊人"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
 				{
 					"id": 39017,
 					"package_id": 53,
