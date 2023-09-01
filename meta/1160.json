@@ -4,7 +4,7 @@
 			"id": 1160,
 			"text": "大会员粉豆人",
 			"url": "https://i0.hdslb.com/bfs/activity-plat/static/20230402/b259b7b0f2bb7794ccabec8d9a08f89f/PLY5JnWKgx.png",
-			"mtime": 1693381250,
+			"mtime": 1693386852,
 			"type": 2,
 			"attr": 28,
 			"meta": {
@@ -28,6 +28,27 @@
 							""
 						],
 						"alias": "开学了？"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 44714,
+					"package_id": 1160,
+					"text": "[大会员粉豆人_开学啦！]",
+					"url": "https://i0.hdslb.com/bfs/emote/4d866e0965512abca5d99860e0fd269e14b4f7b3.png",
+					"mtime": 1693386852,
+					"type": 2,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "开学啦！"
 					},
 					"flags": {
 						"no_access": true,
