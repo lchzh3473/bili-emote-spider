@@ -1,0 +1,26 @@
+{
+	"packages": [
+		{
+			"id": 2332,
+			"text": "三上烤鸭（充电）",
+			"url": "https://i0.hdslb.com/bfs/garb/93caa9990cda91918c79750c74a801276333406f.png",
+			"mtime": 1696040737,
+			"type": 12,
+			"attr": 28,
+			"meta": {
+				"size": 2,
+				"item_url": "https://www.bilibili.com/h5/upower/index?navhide=1&mid=679023184&prePage=emote"
+			},
+			"flags": {
+				"no_access": true
+			},
+			"label": {
+				"font_color": "#FFB027",
+				"background_color": "#FFF6E4",
+				"text": "充电"
+			},
+			"package_sub_title": "",
+			"ref_mid": 679023184
+		}
+	]
+}
