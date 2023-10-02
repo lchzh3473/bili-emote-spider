@@ -4,7 +4,7 @@
 			"id": 713,
 			"text": "蜜汁工坊（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/45acea4483683ad3484239daafea36d31faa2221.png",
-			"mtime": 1688969944,
+			"mtime": 1696145722,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -185,6 +185,24 @@
 					"meta": {
 						"size": 2,
 						"alias": "爬"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 48333,
+					"package_id": 713,
+					"text": "[UPOWER_80505_生日快乐]",
+					"url": "https://i0.hdslb.com/bfs/garb/ac6abce978abcd96fac04bf13b4a1eb15ee14c25.png",
+					"mtime": 1696152502,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "生日快乐"
 					},
 					"flags": {
 						"no_access": true,
