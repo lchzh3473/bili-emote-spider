@@ -4,33 +4,13 @@
 			"id": 2332,
 			"text": "三上烤鸭（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/d03e5f17bfa65904bbb8539ee6191db11a234212.png",
-			"mtime": 1696771758,
+			"mtime": 1696856266,
 			"type": 12,
 			"attr": 28,
 			"meta": {
 				"size": 2,
 				"item_url": "https://www.bilibili.com/h5/upower/index?navhide=1&mid=679023184&prePage=emote"
 			},
-			"emote": [
-				{
-					"id": 48432,
-					"package_id": 2332,
-					"text": "[UPOWER_679023184_打我呀]",
-					"url": "https://i0.hdslb.com/bfs/garb/1048827dd3e2ac7ed7f696ab30afd8e40227c6a7.png",
-					"mtime": 1696771758,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "打我呀"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				}
-			],
 			"flags": {
 				"no_access": true
 			},
