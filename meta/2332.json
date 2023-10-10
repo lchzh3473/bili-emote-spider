@@ -11,6 +11,44 @@
 				"size": 2,
 				"item_url": "https://www.bilibili.com/h5/upower/index?navhide=1&mid=679023184&prePage=emote"
 			},
+			"emote": [
+				{
+					"id": 48432,
+					"package_id": 2332,
+					"text": "[UPOWER_679023184_打我鸭]",
+					"url": "https://i0.hdslb.com/bfs/garb/1048827dd3e2ac7ed7f696ab30afd8e40227c6a7.png",
+					"mtime": 1696902533,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "打我鸭"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 48700,
+					"package_id": 2332,
+					"text": "[UPOWER_679023184_开心鸭]",
+					"url": "https://i0.hdslb.com/bfs/garb/a51e1c1cb1ac649ab88fa8ad23cdd9bb228f09a0.png",
+					"mtime": 1696902505,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "开心鸭"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				}
+			],
 			"flags": {
 				"no_access": true
 			},
