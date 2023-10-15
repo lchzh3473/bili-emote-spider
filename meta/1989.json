@@ -4,7 +4,7 @@
 			"id": 1989,
 			"text": "仓鼠天小莫Teeemo（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/897aa34f0601ceff0d026493b2c2438f86a739e4.png",
-			"mtime": 1694508886,
+			"mtime": 1697355582,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -239,42 +239,6 @@
 					"meta": {
 						"size": 2,
 						"alias": "毁灭菇"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 39131,
-					"package_id": 1989,
-					"text": "[UPOWER_452075137_生日快乐]",
-					"url": "https://i0.hdslb.com/bfs/garb/e063fbdb3ff3edabd04d3159ad9751458d5963f1.png",
-					"mtime": 1690597578,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "生日快乐"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 39132,
-					"package_id": 1989,
-					"text": "[UPOWER_452075137_吃蛋糕]",
-					"url": "https://i0.hdslb.com/bfs/garb/0b6163024b27c6f6a04bff5f047a13e4c1d07556.png",
-					"mtime": 1690597578,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "吃蛋糕"
 					},
 					"flags": {
 						"no_access": true,
