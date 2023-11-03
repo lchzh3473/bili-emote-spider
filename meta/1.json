@@ -4,7 +4,7 @@
 			"id": 1,
 			"text": "小黄脸",
 			"url": "https://i0.hdslb.com/bfs/emote/53148f85bb7e2d8bada8cea57ee4b1f36f48237d.png",
-			"mtime": 1697770784,
+			"mtime": 1699003842,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -1715,6 +1715,26 @@
 					"activity": null
 				},
 				{
+					"id": 51611,
+					"package_id": 1,
+					"text": "[香格里拉边境]",
+					"url": "https://i0.hdslb.com/bfs/emote/80e53d32b4abd12232126f03c68de7c1a67a1e9f.png",
+					"mtime": 1699003842,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 1900,
 					"package_id": 1,
 					"text": "[老鼠]",
@@ -1955,6 +1975,26 @@
 					"activity": null
 				},
 				{
+					"id": 3987,
+					"package_id": 1,
+					"text": "[来古-疑问]",
+					"url": "https://i0.hdslb.com/bfs/emote/032fdc0d9d9fe6334776f6c39518a959b73b98f4.png",
+					"mtime": 1668688325,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 3985,
 					"package_id": 1,
 					"text": "[来古-沉思]",
@@ -1979,26 +2019,6 @@
 					"package_id": 1,
 					"text": "[来古-呆滞]",
 					"url": "https://i0.hdslb.com/bfs/emote/9a70b365e523f2379f395031ceefcebb75a45903.png",
-					"mtime": 1668688325,
-					"type": 1,
-					"attr": 0,
-					"meta": {
-						"size": 1,
-						"suggest": [
-							""
-						]
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 3987,
-					"package_id": 1,
-					"text": "[来古-疑问]",
-					"url": "https://i0.hdslb.com/bfs/emote/032fdc0d9d9fe6334776f6c39518a959b73b98f4.png",
 					"mtime": 1668688325,
 					"type": 1,
 					"attr": 0,
