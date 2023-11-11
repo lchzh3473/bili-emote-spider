@@ -3,8 +3,8 @@
 		{
 			"id": 53,
 			"text": "热词系列一",
-			"url": "https://i0.hdslb.com/bfs/emote/1258a3152ef97d020ca5b7a89492ecc7d3abfc58.png",
-			"mtime": 1699242119,
+			"url": "https://i0.hdslb.com/bfs/emote/04dbba8080a3d2eeeb2b80f845ff6b4b5232643b.png",
+			"mtime": 1699602626,
 			"type": 1,
 			"attr": 2,
 			"meta": {
@@ -12,6 +12,48 @@
 				"item_id": 1039
 			},
 			"emote": [
+				{
+					"id": 52225,
+					"package_id": 53,
+					"text": "[热词系列_哇酷哇酷]",
+					"url": "https://i0.hdslb.com/bfs/emote/04dbba8080a3d2eeeb2b80f845ff6b4b5232643b.png",
+					"mtime": 1699602626,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "哇酷哇酷"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 52226,
+					"package_id": 53,
+					"text": "[热词系列_呵呵]",
+					"url": "https://i0.hdslb.com/bfs/emote/2b20ec5940137d61b4172747c349dcb105e94eff.png",
+					"mtime": 1699602626,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "呵呵"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
 				{
 					"id": 50386,
 					"package_id": 53,

@@ -4,7 +4,7 @@
 			"id": 720,
 			"text": "Yommyko",
 			"url": "https://i0.hdslb.com/bfs/garb/item/f2653e567c1344f5946946fe6db7545da35b5fd1.png",
-			"mtime": 1672232358,
+			"mtime": 1699615073,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -530,6 +530,132 @@
 							""
 						],
 						"alias": "哇"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 52228,
+					"package_id": 720,
+					"text": "[Yommyko_爱了]",
+					"url": "https://i0.hdslb.com/bfs/emote/98b72d8a46a2e49fe2f6ff28423c701788843750.png",
+					"mtime": 1699615073,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "爱了"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 52229,
+					"package_id": 720,
+					"text": "[Yommyko_哼]",
+					"url": "https://i0.hdslb.com/bfs/emote/115f4cf72b8da4f0697a7835c30a159cb220e049.png",
+					"mtime": 1699615073,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "哼"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 52230,
+					"package_id": 720,
+					"text": "[Yommyko_哭哭]",
+					"url": "https://i0.hdslb.com/bfs/emote/5aefdf016ba97f134874e8374255ea62b66c078e.png",
+					"mtime": 1699615073,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "哭哭"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 52231,
+					"package_id": 720,
+					"text": "[Yommyko_你先别急]",
+					"url": "https://i0.hdslb.com/bfs/emote/155d303a6507da89998e237e703afdec6afafd47.png",
+					"mtime": 1699615073,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "你先别急"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 52232,
+					"package_id": 720,
+					"text": "[Yommyko_你真棒]",
+					"url": "https://i0.hdslb.com/bfs/emote/887d006682b5341572b38a0c7579056d577ca8ac.png",
+					"mtime": 1699615073,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "你真棒"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 52233,
+					"package_id": 720,
+					"text": "[Yommyko_哇塞]",
+					"url": "https://i0.hdslb.com/bfs/emote/8152c1ce7ee1f7aeddf3bdf650fc747da8c073f6.png",
+					"mtime": 1699615073,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "哇塞"
 					},
 					"flags": {
 						"no_access": true,
