@@ -7,6 +7,16 @@ const infinityFetch = async (...arg) => {
     return await infinityFetch(...arg);
   }
 };
+const getTemplatedBuffer = async url => {
+  const tmp_path = 'e:/archive/image-bili-emote/.tmp';
+  const filename = url.split('/').pop();
+  const tmp = `${tmp_path}/${filename}`;
+  if (fs.existsSync(tmp)) return fs.readFileSync(tmp);
+  const response = await infinityFetch(url);
+  const buffer = Buffer.from(await response.arrayBuffer());
+  fs.writeFileSync(tmp, buffer);
+  return buffer;
+};
 const em_path = 'meta';
 const im_path = 'e:/archive/image-bili-emote/img';
 const pk_path = 'e:/archive/image-bili-emote/pkg';
@@ -21,8 +31,7 @@ for (const e of arr) {
     const id_str = String(id).padStart(4, '0');
     const url_str = url.split('@')[0];
     const ext = url_str.split('.').pop();
-    const response = await infinityFetch(url_str);
-    const buffer = Buffer.from(await response.arrayBuffer());
+    const buffer = await getTemplatedBuffer(url_str);
     const sha1 = createHash('sha1').update(buffer).digest('hex');
     const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.${ext}`;
     console.log(id, name);
@@ -40,15 +49,13 @@ for (const e of arr) {
     } else {
       const url_splited = url.split('@')[0];
       const ext = url_splited.split('.').pop();
-      const response = await infinityFetch(url_splited);
-      const buffer = Buffer.from(await response.arrayBuffer());
+      const buffer = await getTemplatedBuffer(url_splited);
       const sha1 = createHash('sha1').update(buffer).digest('hex');
       const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.${ext}`;
       if (!fs.existsSync(`${im_path}/${name}`)) fs.writeFileSync(`${im_path}/${name}`, buffer);
     }
     if (gif_url) {
-      const response = await infinityFetch(gif_url);
-      const buffer = Buffer.from(await response.arrayBuffer());
+      const buffer = await getTemplatedBuffer(gif_url);
       const sha1 = createHash('sha1').update(buffer).digest('hex');
       const name = `${id_str}.${escape(text)}.${sha1.slice(0, 8)}.gif`;
       if (!fs.existsSync(`${im_path}/${name}`)) fs.writeFileSync(`${im_path}/${name}`, buffer);
