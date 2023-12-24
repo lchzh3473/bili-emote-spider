@@ -76,39 +76,6 @@
 					"activity": null
 				},
 				{
-					"id": 50386,
-					"package_id": 53,
-					"text": "[热词系列_课代表]",
-					"url": "https://i0.hdslb.com/bfs/emote/1258a3152ef97d020ca5b7a89492ecc7d3abfc58.png",
-					"mtime": 1698320853,
-					"type": 8,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"label_text": "限时",
-						"label_color": "#FF20AAe2",
-						"suggest": [
-							""
-						],
-						"alias": "课代表"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": {
-						"title": "看地脉3涨知识",
-						"start_time": 1698249600,
-						"end_time": 1703433600,
-						"jump_url": "https://www.bilibili.com/blackboard/topic/activity-DKjhvjvlpx.html",
-						"unlock_descs": [
-							"发布动态解锁",
-							"活动截至2023-12-25 00:00"
-						],
-						"jump_btn_desc": "发布动态解锁“课代表”表情包！"
-					}
-				},
-				{
 					"id": 4649,
 					"package_id": 53,
 					"text": "[热词系列_谢谢老师]",
