@@ -4,7 +4,7 @@
 			"id": 2238,
 			"text": "Huhu安（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/98e70101ed2611876e9cbf090aac721f032251d1.png",
-			"mtime": 1704705623,
+			"mtime": 1705057380,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -41,24 +41,6 @@
 					"meta": {
 						"size": 2,
 						"alias": "更新啦"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 39185,
-					"package_id": 2238,
-					"text": "[UPOWER_284194350_疑惑]",
-					"url": "https://i0.hdslb.com/bfs/garb/5c3510a26bd402ddf533c0227cda3183d7693c08.png",
-					"mtime": 1690603733,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "疑惑"
 					},
 					"flags": {
 						"no_access": true,
