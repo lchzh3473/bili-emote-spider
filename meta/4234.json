@@ -1,0 +1,208 @@
+{
+	"packages": [
+		{
+			"id": 4234,
+			"text": "夢冬oTo（充电）",
+			"url": "https://i0.hdslb.com/bfs/garb/3d87e6d687f7e585eb046137d7bb92633d76368e.png",
+			"mtime": 1705185367,
+			"type": 12,
+			"attr": 28,
+			"meta": {
+				"size": 2,
+				"item_url": "https://www.bilibili.com/h5/upower/index?navhide=1&mid=353708919&prePage=emote"
+			},
+			"emote": [
+				{
+					"id": 60263,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_委屈巴巴]",
+					"url": "https://i0.hdslb.com/bfs/garb/1d42a88a08ee04a7053ef1a2e759b0e2192a8073.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "委屈巴巴"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 60264,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_wink]",
+					"url": "https://i0.hdslb.com/bfs/garb/e6990f8cb288b761776266818c613b520531248f.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "wink"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 60265,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_无语辣]",
+					"url": "https://i0.hdslb.com/bfs/garb/bcdda0cab35819185c1938a93dbe3dc0528e3c3f.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "无语辣"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 60266,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_甚么情况]",
+					"url": "https://i0.hdslb.com/bfs/garb/84ca6bc69e28f4f52dd18dbf7adfd061cfafc645.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "甚么情况"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 60267,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_嗷嗷大哭]",
+					"url": "https://i0.hdslb.com/bfs/garb/ef2f423a95880a9ebe594ddc53bf96adbe282f95.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "嗷嗷大哭"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 60268,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_暗中观察]",
+					"url": "https://i0.hdslb.com/bfs/garb/e7e75db06eaa2e87746ebb8007178d8441028c33.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "暗中观察"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 60269,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_天降大钱]",
+					"url": "https://i0.hdslb.com/bfs/garb/2deba17f7346d81e7816dcaf7a7db7515a2c7663.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "天降大钱"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 60270,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_打个哈欠]",
+					"url": "https://i0.hdslb.com/bfs/garb/c47c36861f054fba520ff39049b2293d3558b7f7.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "打个哈欠"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 60271,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_气鼓鼓]",
+					"url": "https://i0.hdslb.com/bfs/garb/702606b0a3017d7252b22e412d7da2f20e4417c3.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "气鼓鼓"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 60272,
+					"package_id": 4234,
+					"text": "[UPOWER_353708919_晚安呐]",
+					"url": "https://i0.hdslb.com/bfs/garb/37bea5c04457604c62fd4d2fa2eefcc2839e3348.png",
+					"mtime": 1705185367,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "晚安呐"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				}
+			],
+			"flags": {
+				"no_access": true
+			},
+			"label": {
+				"font_color": "#FFB027",
+				"background_color": "#FFF6E4",
+				"text": "充电"
+			},
+			"package_sub_title": "",
+			"ref_mid": 353708919
+		}
+	]
+}

@@ -49,6 +49,24 @@
 					"activity": null
 				},
 				{
+					"id": 60163,
+					"package_id": 2238,
+					"text": "[UPOWER_284194350_又不理我]",
+					"url": "https://i0.hdslb.com/bfs/garb/a09cfb2ab7876acadb1bdc0e45337d26eff416a5.png",
+					"mtime": 1705221802,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "又不理我"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 39186,
 					"package_id": 2238,
 					"text": "[UPOWER_284194350_憨憨]",
