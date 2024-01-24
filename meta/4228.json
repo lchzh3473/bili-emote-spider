@@ -1,0 +1,22 @@
+{
+	"packages": [
+		{
+			"id": 4228,
+			"text": "原神-枫丹",
+			"url": "https://i0.hdslb.com/bfs/emote/66f1a31d0cbba90ee81fcd78841af937755ea673.png",
+			"mtime": 1706080834,
+			"type": 3,
+			"attr": 28,
+			"meta": {
+				"size": 2,
+				"item_id": 66331
+			},
+			"flags": {
+				"no_access": true
+			},
+			"label": null,
+			"package_sub_title": "",
+			"ref_mid": 0
+		}
+	]
+}
