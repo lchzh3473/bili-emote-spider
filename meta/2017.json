@@ -4,7 +4,7 @@
 			"id": 2017,
 			"text": "口袋迷ag（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/a5e8075dedb84d20ee46e5f0035b1acc660c275a.png",
-			"mtime": 1703863290,
+			"mtime": 1707113782,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -239,6 +239,24 @@
 					"meta": {
 						"size": 2,
 						"alias": "灭亡之歌"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 62980,
+					"package_id": 2017,
+					"text": "[UPOWER_343348_诡计淘金]",
+					"url": "https://i0.hdslb.com/bfs/garb/d7ca6141985d9eb4dcd9de2d4f7d33506da62f29.png",
+					"mtime": 1707120192,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "诡计淘金"
 					},
 					"flags": {
 						"no_access": true,
