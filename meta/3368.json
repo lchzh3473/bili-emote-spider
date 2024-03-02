@@ -31,6 +31,24 @@
 					"activity": null
 				},
 				{
+					"id": 45778,
+					"package_id": 3368,
+					"text": "[UPOWER_326251695_掂掂你的]",
+					"url": "https://i0.hdslb.com/bfs/garb/a90283b8d96de038e79be4b5cce8024faf619e3a.png",
+					"mtime": 1709386001,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "掂掂你的"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 45779,
 					"package_id": 3368,
 					"text": "[UPOWER_326251695_穷鸽]",
