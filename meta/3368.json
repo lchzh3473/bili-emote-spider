@@ -407,6 +407,24 @@
 						"unlocked": false
 					},
 					"activity": null
+				},
+				{
+					"id": 65895,
+					"package_id": 3368,
+					"text": "[UPOWER_326251695_瑞士卷]",
+					"url": "https://i0.hdslb.com/bfs/garb/bd541e2e7fa13339350655f25500c871abd5ddb6.png",
+					"mtime": 1709432567,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "瑞士卷"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
 				}
 			],
 			"flags": {
