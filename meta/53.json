@@ -13,6 +13,72 @@
 			},
 			"emote": [
 				{
+					"id": 65685,
+					"package_id": 53,
+					"text": "[热词系列_守护世界]",
+					"url": "https://i0.hdslb.com/bfs/emote/267e64cf2d1507af6186acf3dc14c9a29ab0d3f2.png",
+					"mtime": 1709804191,
+					"type": 8,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							""
+						],
+						"alias": "守护世界"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "守护更好的她",
+						"start_time": 1709827200,
+						"end_time": 1712505600,
+						"jump_url": "https://www.bilibili.com/blackboard/era/tLVlEGfegGPx54kr.html",
+						"unlock_descs": [
+							"为指定公益项目捐款或发布话题动态",
+							"活动截至2024-04-08 00:00"
+						],
+						"jump_btn_desc": "前往活动解锁"
+					}
+				},
+				{
+					"id": 65686,
+					"package_id": 53,
+					"text": "[热词系列_我真棒]",
+					"url": "https://i0.hdslb.com/bfs/emote/77f64b8e7cc61952f70c92796b93453720bbc2d2.png",
+					"mtime": 1709804191,
+					"type": 8,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							""
+						],
+						"alias": "我真棒"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "守护更好的她",
+						"start_time": 1709827200,
+						"end_time": 1712505600,
+						"jump_url": "https://www.bilibili.com/blackboard/era/tLVlEGfegGPx54kr.html",
+						"unlock_descs": [
+							"为指定公益项目捐款或发布话题动态",
+							"活动截至2024-04-08 00:00"
+						],
+						"jump_btn_desc": "前往活动解锁"
+					}
+				},
+				{
 					"id": 62994,
 					"package_id": 53,
 					"text": "[热词系列_上任鹅城]",
