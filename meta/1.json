@@ -4,7 +4,7 @@
 			"id": 1,
 			"text": "小黄脸",
 			"url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-			"mtime": 1711622313,
+			"mtime": 1711900803,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -78,6 +78,26 @@
 					"text": "[脱单doge]",
 					"url": "https://i0.hdslb.com/bfs/emote/bf7e00ecab02171f8461ee8cf439c73db9797748.png",
 					"mtime": 1668688325,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 68109,
+					"package_id": 1,
+					"text": "[2024愚人节_绿色doge]",
+					"url": "https://i0.hdslb.com/bfs/emote/270be6d49f58d503a4a9d592a7ea83ac2adca13a.png",
+					"mtime": 1711900803,
 					"type": 1,
 					"attr": 0,
 					"meta": {
