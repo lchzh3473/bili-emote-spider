@@ -4,7 +4,7 @@
 			"id": 1,
 			"text": "小黄脸",
 			"url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-			"mtime": 1713519449,
+			"mtime": 1713625201,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -1920,6 +1920,26 @@
 					"text": "[洛天依]",
 					"url": "https://i0.hdslb.com/bfs/emote/9fe06f3594d9afaf4ee2b74770f1c3086ae0ba11.png",
 					"mtime": 1668688325,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						]
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 69967,
+					"package_id": 1,
+					"text": "[怪兽8号_开心]",
+					"url": "https://i0.hdslb.com/bfs/emote/10ff5a4eba58e8d99fa3d5f21c98f10c3b61cc5f.png",
+					"mtime": 1713625201,
 					"type": 1,
 					"attr": 0,
 					"meta": {
