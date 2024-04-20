@@ -4,7 +4,7 @@
 			"id": 4790,
 			"text": "奇闻观察室（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/70769a88673dc63c9103eb3cae3cf079ad1f1e1a.png",
-			"mtime": 1712409357,
+			"mtime": 1713583196,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -185,6 +185,24 @@
 					"meta": {
 						"size": 2,
 						"alias": "吃惊"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 70028,
+					"package_id": 4790,
+					"text": "[UPOWER_454719565_我跟]",
+					"url": "https://i0.hdslb.com/bfs/garb/c256993d57d7bc8a37d0c5cd6efdac32104e8976.png",
+					"mtime": 1713583196,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "我跟"
 					},
 					"flags": {
 						"no_access": true,
