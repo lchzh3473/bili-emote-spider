@@ -4,7 +4,7 @@
 			"id": 2238,
 			"text": "Huhu安（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/98e70101ed2611876e9cbf090aac721f032251d1.png",
-			"mtime": 1712055810,
+			"mtime": 1714964486,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -23,24 +23,6 @@
 					"meta": {
 						"size": 2,
 						"alias": "哭了"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 39184,
-					"package_id": 2238,
-					"text": "[UPOWER_284194350_更新啦]",
-					"url": "https://i0.hdslb.com/bfs/garb/89c1c18e50dc352d69c86aa92e9ed47a097952cb.png",
-					"mtime": 1690603733,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "更新啦"
 					},
 					"flags": {
 						"no_access": true,
@@ -365,24 +347,6 @@
 					"meta": {
 						"size": 2,
 						"alias": "吓死了"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 44371,
-					"package_id": 2238,
-					"text": "[UPOWER_284194350_耶]",
-					"url": "https://i0.hdslb.com/bfs/garb/735d8bf5b73b5156a0e15156cd65affef90adfc4.png",
-					"mtime": 1707392254,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "耶"
 					},
 					"flags": {
 						"no_access": true,
