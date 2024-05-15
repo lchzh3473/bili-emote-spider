@@ -4,7 +4,7 @@
 			"id": 4974,
 			"text": "兔眠可可（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/f1db04c8198ecf968a17da577557368655fd0969.png",
-			"mtime": 1715562661,
+			"mtime": 1715754978,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -311,24 +311,6 @@
 					"meta": {
 						"size": 2,
 						"alias": "怒"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 71946,
-					"package_id": 4974,
-					"text": "[UPOWER_1096034982_乞讨]",
-					"url": "https://i0.hdslb.com/bfs/garb/7e94ef9009b61571983cb4094fc719a12f76e1b9.png",
-					"mtime": 1715562661,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "乞讨"
 					},
 					"flags": {
 						"no_access": true,
