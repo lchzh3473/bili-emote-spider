@@ -319,6 +319,24 @@
 					"activity": null
 				},
 				{
+					"id": 72306,
+					"package_id": 4974,
+					"text": "[UPOWER_1096034982_大笑]",
+					"url": "https://i0.hdslb.com/bfs/garb/bb071f1db09f980379a222fcf2cdf6d91c947bdd.png",
+					"mtime": 1715779822,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "大笑"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 71947,
 					"package_id": 4974,
 					"text": "[UPOWER_1096034982_乐]",
