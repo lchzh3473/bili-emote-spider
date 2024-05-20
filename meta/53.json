@@ -4,7 +4,7 @@
 			"id": 53,
 			"text": "热词系列一",
 			"url": "https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-			"mtime": 1715680382,
+			"mtime": 1716183009,
 			"type": 1,
 			"attr": 2,
 			"meta": {
@@ -12,6 +12,105 @@
 				"item_id": 1039
 			},
 			"emote": [
+				{
+					"id": 72183,
+					"package_id": 53,
+					"text": "[热词系列_真正的英雄]",
+					"url": "https://i0.hdslb.com/bfs/emote/7f64d93e0f33e18570b4f90f2a7c7de26f8ced79.png",
+					"mtime": 1716183009,
+					"type": 8,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							""
+						],
+						"alias": "真正的英雄"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "快乐六一游园会",
+						"start_time": 1716184800,
+						"end_time": 1718899199,
+						"jump_url": "https://www.bilibili.com/blackboard/era/LqRm2ICrIj9bt0PW.html",
+						"unlock_descs": [
+							"为指定公益项目捐款或发布话题动态",
+							"活动截至2024-06-20 23:59"
+						],
+						"jump_btn_desc": "前往活动解锁"
+					}
+				},
+				{
+					"id": 72184,
+					"package_id": 53,
+					"text": "[热词系列_有点意思]",
+					"url": "https://i0.hdslb.com/bfs/emote/d0825c28173db0d3ef9b502247e93931016a4a83.png",
+					"mtime": 1716183009,
+					"type": 8,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							""
+						],
+						"alias": "有点意思"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "快乐六一游园会",
+						"start_time": 1716184800,
+						"end_time": 1718899199,
+						"jump_url": "https://www.bilibili.com/blackboard/era/LqRm2ICrIj9bt0PW.html",
+						"unlock_descs": [
+							"为指定公益项目捐款或发布话题动态",
+							"活动截至2024-06-20 23:59"
+						],
+						"jump_btn_desc": "前往活动解锁"
+					}
+				},
+				{
+					"id": 72185,
+					"package_id": 53,
+					"text": "[热词系列_可爱捏]",
+					"url": "https://i0.hdslb.com/bfs/emote/f7cb72b949a69602b80c92172052a683439d700c.png",
+					"mtime": 1716183009,
+					"type": 8,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							""
+						],
+						"alias": "可爱捏"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "快乐六一游园会",
+						"start_time": 1716184800,
+						"end_time": 1718899199,
+						"jump_url": "https://www.bilibili.com/blackboard/era/LqRm2ICrIj9bt0PW.html",
+						"unlock_descs": [
+							"为指定公益项目捐款或发布话题动态",
+							"活动截至2024-06-20 23:59"
+						],
+						"jump_btn_desc": "前往活动解锁"
+					}
+				},
 				{
 					"id": 62994,
 					"package_id": 53,
