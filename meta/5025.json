@@ -4,7 +4,7 @@
 			"id": 5025,
 			"text": "鸣潮",
 			"url": "https://i0.hdslb.com/bfs/emote/90f5fce1f2c5fc9594ca3dd7f3d26f353c3a28ca.png",
-			"mtime": 1716206723,
+			"mtime": 1716212692,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -15,9 +15,9 @@
 				{
 					"id": 72862,
 					"package_id": 5025,
-					"text": "[鸣潮_漂泊者倾听]",
+					"text": "[鸣潮_倾听]",
 					"url": "https://i0.hdslb.com/bfs/emote/d1b09b2cdd1b2e277de83f1937ae009a7f81ca34.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -25,7 +25,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "漂泊者倾听"
+						"alias": "倾听"
 					},
 					"flags": {
 						"no_access": true,
@@ -36,9 +36,9 @@
 				{
 					"id": 72863,
 					"package_id": 5025,
-					"text": "[鸣潮_秧秧开心]",
+					"text": "[鸣潮_开心]",
 					"url": "https://i0.hdslb.com/bfs/emote/2d8fc2471ff44fdef7176f1bf7e874f519cddcd5.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -46,7 +46,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "秧秧开心"
+						"alias": "开心"
 					},
 					"flags": {
 						"no_access": true,
@@ -57,9 +57,9 @@
 				{
 					"id": 72864,
 					"package_id": 5025,
-					"text": "[鸣潮_漂泊者收了你]",
+					"text": "[鸣潮_收了你]",
 					"url": "https://i0.hdslb.com/bfs/emote/d16342971f0d9d9872a3e7df77c246422da437b9.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -67,7 +67,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "漂泊者收了你"
+						"alias": "收了你"
 					},
 					"flags": {
 						"no_access": true,
@@ -78,9 +78,9 @@
 				{
 					"id": 72865,
 					"package_id": 5025,
-					"text": "[鸣潮_无冠者奇怪]",
+					"text": "[鸣潮_奇怪]",
 					"url": "https://i0.hdslb.com/bfs/emote/71745f07296dccf1af8647772f8752d15cb7a438.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -88,7 +88,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "无冠者奇怪"
+						"alias": "奇怪"
 					},
 					"flags": {
 						"no_access": true,
@@ -99,9 +99,9 @@
 				{
 					"id": 72866,
 					"package_id": 5025,
-					"text": "[鸣潮_秧秧给心心]",
+					"text": "[鸣潮_给心心]",
 					"url": "https://i0.hdslb.com/bfs/emote/c394fc7b372cd29b15d8b587263587cf298cd036.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -109,7 +109,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "秧秧给心心"
+						"alias": "给心心"
 					},
 					"flags": {
 						"no_access": true,
@@ -120,9 +120,9 @@
 				{
 					"id": 72867,
 					"package_id": 5025,
-					"text": "[鸣潮_炽霞大笑]",
+					"text": "[鸣潮_大笑]",
 					"url": "https://i0.hdslb.com/bfs/emote/04a6f783aea03bae55999fbd453717c58bed7a71.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -130,7 +130,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "炽霞大笑"
+						"alias": "大笑"
 					},
 					"flags": {
 						"no_access": true,
@@ -141,9 +141,9 @@
 				{
 					"id": 72868,
 					"package_id": 5025,
-					"text": "[鸣潮_白芷冲]",
+					"text": "[鸣潮_冲]",
 					"url": "https://i0.hdslb.com/bfs/emote/07248deb73f1abda743eb61ab811a9f33313e982.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -151,7 +151,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "白芷冲"
+						"alias": "冲"
 					},
 					"flags": {
 						"no_access": true,
@@ -162,9 +162,9 @@
 				{
 					"id": 72869,
 					"package_id": 5025,
-					"text": "[鸣潮_吟霖微笑]",
+					"text": "[鸣潮_微笑]",
 					"url": "https://i0.hdslb.com/bfs/emote/414c16941e6eb388bb8362a4f63f953f67517b13.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -172,7 +172,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "吟霖微笑"
+						"alias": "微笑"
 					},
 					"flags": {
 						"no_access": true,
@@ -183,9 +183,9 @@
 				{
 					"id": 72870,
 					"package_id": 5025,
-					"text": "[鸣潮_安可看看]",
+					"text": "[鸣潮_看看]",
 					"url": "https://i0.hdslb.com/bfs/emote/6acf36d2cf1fcbf8e8db59e21611ba10f549f2d7.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -193,7 +193,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "安可看看"
+						"alias": "看看"
 					},
 					"flags": {
 						"no_access": true,
@@ -204,9 +204,9 @@
 				{
 					"id": 72871,
 					"package_id": 5025,
-					"text": "[鸣潮_忌炎思考]",
+					"text": "[鸣潮_思考]",
 					"url": "https://i0.hdslb.com/bfs/emote/dd4121e189e52d4073c1373fabd4efd474a52b01.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -214,7 +214,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "忌炎思考"
+						"alias": "思考"
 					},
 					"flags": {
 						"no_access": true,
@@ -225,9 +225,9 @@
 				{
 					"id": 72872,
 					"package_id": 5025,
-					"text": "[鸣潮_卡卡罗警惕]",
+					"text": "[鸣潮_警惕]",
 					"url": "https://i0.hdslb.com/bfs/emote/307586f4537a9169a78fada06395d92acbdece94.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -235,7 +235,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "卡卡罗警惕"
+						"alias": "警惕"
 					},
 					"flags": {
 						"no_access": true,
@@ -246,9 +246,9 @@
 				{
 					"id": 72873,
 					"package_id": 5025,
-					"text": "[鸣潮_维里奈惊喜]",
+					"text": "[鸣潮_惊喜]",
 					"url": "https://i0.hdslb.com/bfs/emote/21ac05a0a52a4e4bc1dfde758bfe32c983c75306.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -256,7 +256,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "维里奈惊喜"
+						"alias": "惊喜"
 					},
 					"flags": {
 						"no_access": true,
@@ -267,9 +267,9 @@
 				{
 					"id": 72874,
 					"package_id": 5025,
-					"text": "[鸣潮_凌阳跳舞]",
+					"text": "[鸣潮_跳舞]",
 					"url": "https://i0.hdslb.com/bfs/emote/4420e0014df39358988fa7aa941068a3098e2c89.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -277,7 +277,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "凌阳跳舞"
+						"alias": "跳舞"
 					},
 					"flags": {
 						"no_access": true,
@@ -288,9 +288,9 @@
 				{
 					"id": 72875,
 					"package_id": 5025,
-					"text": "[鸣潮_鉴心期待]",
+					"text": "[鸣潮_期待]",
 					"url": "https://i0.hdslb.com/bfs/emote/c2d0ceaaa24462c6a24e8b967f2345bbea0df9a2.png",
-					"mtime": 1716206723,
+					"mtime": 1716212692,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -298,7 +298,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "鉴心期待"
+						"alias": "期待"
 					},
 					"flags": {
 						"no_access": true,
