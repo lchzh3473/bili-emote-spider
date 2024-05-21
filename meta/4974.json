@@ -317,6 +317,24 @@
 						"unlocked": false
 					},
 					"activity": null
+				},
+				{
+					"id": 73001,
+					"package_id": 4974,
+					"text": "[UPOWER_1096034982_勾肩搭背]",
+					"url": "https://i0.hdslb.com/bfs/garb/6c95b846ae4c79f307a90cf6a39246ca73a96f4c.png",
+					"mtime": 1716297971,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "勾肩搭背"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
 				}
 			],
 			"flags": {
