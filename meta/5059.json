@@ -1,0 +1,118 @@
+{
+	"packages": [
+		{
+			"id": 5059,
+			"text": "小片片说大片（充电）",
+			"url": "https://i0.hdslb.com/bfs/garb/e749735267d2ebb8c82745af58a6ef36e8e745ee.png",
+			"mtime": 1716640609,
+			"type": 12,
+			"attr": 28,
+			"meta": {
+				"size": 2,
+				"item_url": "https://www.bilibili.com/h5/upower/index?navhide=1&mid=10119428&prePage=emote"
+			},
+			"emote": [
+				{
+					"id": 73449,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_噗嗤一笑]",
+					"url": "https://i0.hdslb.com/bfs/garb/65060900ef4caae16ebeb56903006731c839e8dd.png",
+					"mtime": 1716640609,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "噗嗤一笑"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 73450,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_略略略]",
+					"url": "https://i0.hdslb.com/bfs/garb/a15d450f68b33ff2e64cb29c50911907218df89c.png",
+					"mtime": 1716640609,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "略略略"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 73451,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_哈哈哈]",
+					"url": "https://i0.hdslb.com/bfs/garb/d1ba46391f959f70b5c1dfb41c30422af52bbb75.png",
+					"mtime": 1716640609,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "哈哈哈"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 73452,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_666]",
+					"url": "https://i0.hdslb.com/bfs/garb/6ecd003f4d971d328126405471679f8ba2f02267.png",
+					"mtime": 1716640609,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "666"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 73453,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_恭喜发财]",
+					"url": "https://i0.hdslb.com/bfs/garb/3d2dba2e503b9bfb4892df552d193d7f5210d32e.png",
+					"mtime": 1716640609,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "恭喜发财"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				}
+			],
+			"flags": {
+				"no_access": true
+			},
+			"label": {
+				"font_color": "#FFB027",
+				"background_color": "#FFF6E4",
+				"text": "充电"
+			},
+			"package_sub_title": "",
+			"ref_mid": 10119428
+		}
+	]
+}
