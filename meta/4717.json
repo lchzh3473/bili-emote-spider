@@ -29,24 +29,6 @@
 						"unlocked": false
 					},
 					"activity": null
-				},
-				{
-					"id": 70560,
-					"package_id": 4717,
-					"text": "[UPOWER_3494361880856991_流汗]",
-					"url": "https://i0.hdslb.com/bfs/garb/c971c36f68c6ccb61870ffc99c391904321baf7d.png",
-					"mtime": 1714183190,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "流汗"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
 				}
 			],
 			"flags": {
