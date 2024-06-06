@@ -24,7 +24,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "HI"
 					},
 					"flags": {
 						"no_access": true,
@@ -44,7 +45,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "不要嘛"
 					},
 					"flags": {
 						"no_access": true,
@@ -64,7 +66,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "不愿再爱"
 					},
 					"flags": {
 						"no_access": true,
@@ -84,7 +87,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "加油"
 					},
 					"flags": {
 						"no_access": true,
@@ -104,7 +108,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "开森"
 					},
 					"flags": {
 						"no_access": true,
@@ -124,7 +129,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "你说得对"
 					},
 					"flags": {
 						"no_access": true,
@@ -144,7 +150,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "是心动鸭"
 					},
 					"flags": {
 						"no_access": true,
@@ -164,7 +171,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "死亡凝视"
 					},
 					"flags": {
 						"no_access": true,
@@ -184,7 +192,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "真香"
 					},
 					"flags": {
 						"no_access": true,
@@ -204,7 +213,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "只想休息"
 					},
 					"flags": {
 						"no_access": true,
@@ -218,7 +228,8 @@
 			},
 			"label": null,
 			"package_sub_title": "",
-			"ref_mid": 0
+			"ref_mid": 0,
+			"resource_type": 0
 		}
 	]
 }

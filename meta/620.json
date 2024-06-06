@@ -732,7 +732,8 @@
 			},
 			"label": null,
 			"package_sub_title": "",
-			"ref_mid": 0
+			"ref_mid": 0,
+			"resource_type": 0
 		}
 	]
 }
