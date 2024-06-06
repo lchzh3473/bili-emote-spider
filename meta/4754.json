@@ -202,7 +202,8 @@
 				"text": "充电"
 			},
 			"package_sub_title": "",
-			"ref_mid": 9448580
+			"ref_mid": 9448580,
+			"resource_type": 0
 		}
 	]
 }
