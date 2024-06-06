@@ -24,7 +24,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "酷仔"
 					},
 					"flags": {
 						"no_access": true,
@@ -44,7 +45,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "赞了"
 					},
 					"flags": {
 						"no_access": true,
@@ -64,7 +66,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "暗中观察"
 					},
 					"flags": {
 						"no_access": true,
@@ -84,7 +87,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "么么哒"
 					},
 					"flags": {
 						"no_access": true,
@@ -104,7 +108,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "哭哭"
 					},
 					"flags": {
 						"no_access": true,
@@ -124,7 +129,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "饿了"
 					},
 					"flags": {
 						"no_access": true,
@@ -144,7 +150,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "问号"
 					},
 					"flags": {
 						"no_access": true,
@@ -164,7 +171,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "嘿嘿"
 					},
 					"flags": {
 						"no_access": true,
@@ -184,7 +192,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "卖萌"
 					},
 					"flags": {
 						"no_access": true,
@@ -204,7 +213,8 @@
 						"size": 1,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "喵"
 					},
 					"flags": {
 						"no_access": true,
@@ -216,7 +226,8 @@
 			"flags": {},
 			"label": null,
 			"package_sub_title": "",
-			"ref_mid": 0
+			"ref_mid": 0,
+			"resource_type": 0
 		}
 	]
 }
