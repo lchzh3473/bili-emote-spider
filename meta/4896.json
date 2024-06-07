@@ -157,6 +157,24 @@
 					"activity": null
 				},
 				{
+					"id": 74639,
+					"package_id": 4896,
+					"text": "[UPOWER_6075545_小声催更]",
+					"url": "https://i0.hdslb.com/bfs/garb/a956e595e1064e4eb9a6895a678fbc52f7f72309.png",
+					"mtime": 1717735570,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "小声催更"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 70571,
 					"package_id": 4896,
 					"text": "[UPOWER_6075545_泰酷辣]",
@@ -167,6 +185,24 @@
 					"meta": {
 						"size": 2,
 						"alias": "泰酷辣"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 70573,
+					"package_id": 4896,
+					"text": "[UPOWER_6075545_臻笑了]",
+					"url": "https://i0.hdslb.com/bfs/garb/1580b2d04d50660c66c0e8fbfa7d324ca167411a.png",
+					"mtime": 1717735570,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "臻笑了"
 					},
 					"flags": {
 						"no_access": true,
