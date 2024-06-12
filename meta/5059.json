@@ -67,6 +67,24 @@
 					"activity": null
 				},
 				{
+					"id": 73452,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_666]",
+					"url": "https://i0.hdslb.com/bfs/garb/75d6495739e786459f4cc1f9f084567c815292df.png",
+					"mtime": 1718182457,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "666"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 73453,
 					"package_id": 5059,
 					"text": "[UPOWER_10119428_恭喜发财]",
@@ -257,6 +275,24 @@
 					"meta": {
 						"size": 2,
 						"alias": "脸红"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 74734,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_拜了个拜]",
+					"url": "https://i0.hdslb.com/bfs/garb/e7ba6c95b1219c546b71fead7e49d752585cacfd.png",
+					"mtime": 1718182457,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "拜了个拜"
 					},
 					"flags": {
 						"no_access": true,
