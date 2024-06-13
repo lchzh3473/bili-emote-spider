@@ -299,42 +299,6 @@
 						"unlocked": false
 					},
 					"activity": null
-				},
-				{
-					"id": 74899,
-					"package_id": 2017,
-					"text": "[UPOWER_343348_守护秩序]",
-					"url": "https://i0.hdslb.com/bfs/garb/7caef5daaa5552cfdd4737ea6fe7e6c2f2d7934d.png",
-					"mtime": 1718075914,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "守护秩序"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 35188,
-					"package_id": 2017,
-					"text": "[UPOWER_343348_蘑菇孢子]",
-					"url": "https://i0.hdslb.com/bfs/garb/7a7b082bf775d7c97f4437f0d9e9b4c72d27eee4.png",
-					"mtime": 1718097608,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "蘑菇孢子"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
 				}
 			],
 			"flags": {
