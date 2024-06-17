@@ -265,6 +265,24 @@
 					"activity": null
 				},
 				{
+					"id": 75479,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_捂脸]",
+					"url": "https://i0.hdslb.com/bfs/garb/7780532581280d08c1497f602373dbfa8e34a503.png",
+					"mtime": 1718635168,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "捂脸"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 74734,
 					"package_id": 5059,
 					"text": "[UPOWER_10119428_拜了个拜]",
@@ -275,6 +293,96 @@
 					"meta": {
 						"size": 2,
 						"alias": "拜了个拜"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 75474,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_谢谢]",
+					"url": "https://i0.hdslb.com/bfs/garb/3d2d264d32a5193687d0364b29d0ee636e5ade7a.png",
+					"mtime": 1718635168,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "谢谢"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 75475,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_嗯嗯]",
+					"url": "https://i0.hdslb.com/bfs/garb/93b2ab1a2a42fad28eb586cf551b3ff9daac32e6.png",
+					"mtime": 1718635168,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "嗯嗯"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 75476,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_满头问号]",
+					"url": "https://i0.hdslb.com/bfs/garb/b3bd1de2756e78e28c2573bab30f413e55add8b5.png",
+					"mtime": 1718635168,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "满头问号"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 75477,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_OK]",
+					"url": "https://i0.hdslb.com/bfs/garb/5708639a7bc9be81edf571a2f798b97c1c53ff85.png",
+					"mtime": 1718635168,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "OK"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 75478,
+					"package_id": 5059,
+					"text": "[UPOWER_10119428_赞]",
+					"url": "https://i0.hdslb.com/bfs/garb/b7ac0d589e921368ae0d02e1057e5f17592fad42.png",
+					"mtime": 1718635167,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "赞"
 					},
 					"flags": {
 						"no_access": true,
