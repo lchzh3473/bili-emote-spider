@@ -1,0 +1,487 @@
+{
+	"packages": [
+		{
+			"id": 5237,
+			"text": "桃核豆豆子动态表情包",
+			"url": "https://i0.hdslb.com/bfs/emote/8ff480fc854258155205a1476ad57d0d9b70a515.png",
+			"mtime": 1718949296,
+			"type": 3,
+			"attr": 28,
+			"meta": {
+				"size": 2,
+				"label_text": "动图",
+				"label_color": "#FF6699",
+				"item_id": 69059
+			},
+			"emote": [
+				{
+					"id": 76380,
+					"package_id": 5237,
+					"text": "[桃核_LOVE]",
+					"url": "https://i0.hdslb.com/bfs/emote/8ff480fc854258155205a1476ad57d0d9b70a515.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/ddad166d0d5203b0a1ed931e95b2787b15dbce41.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "LOVE"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/f984a4343164f76c15765c59fbae12aaf5e1972a.webp"
+				},
+				{
+					"id": 76381,
+					"package_id": 5237,
+					"text": "[桃核_qiu]",
+					"url": "https://i0.hdslb.com/bfs/emote/9dd05a8febb26bd7e00191acb338ea5bec1ca9c9.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/0cc762b90d1f4bff9953a794575a349cc18a7fa2.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "qiu"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/249acc008d16ca08ca6c224553179790f02a3f21.webp"
+				},
+				{
+					"id": 76382,
+					"package_id": 5237,
+					"text": "[桃核_大哭]",
+					"url": "https://i0.hdslb.com/bfs/emote/a2c8a11d6b193bac80a44cbe0e1ab65e9fc577e1.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/292fe721a79bf444e1b119de5327ced484f625de.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "大哭"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/84a0e277901531abab61abdd311dfaa19b457f99.webp"
+				},
+				{
+					"id": 76384,
+					"package_id": 5237,
+					"text": "[豆豆子_爱你]",
+					"url": "https://i0.hdslb.com/bfs/emote/d810a47ff58230bfdb3e3b3e6a890dc1e18c114c.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/b02964b9263a516eff4090c0cff3e6776f8a1e8a.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "爱你"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/a8273b890d208f352c41ba817aeb2bdaaaeb1879.webp"
+				},
+				{
+					"id": 76385,
+					"package_id": 5237,
+					"text": "[豆豆子_nice]",
+					"url": "https://i0.hdslb.com/bfs/emote/b35fd09f93cbef5cd8e18b142accab9c4dc2e257.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/edb58595ef7bd7465cc81229ef01df03b4b8e50b.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "nice"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/cc71382696445c3eaf2950e83252e18247f3d6c5.webp"
+				},
+				{
+					"id": 76386,
+					"package_id": 5237,
+					"text": "[豆豆子_一起摇摆]",
+					"url": "https://i0.hdslb.com/bfs/emote/afe7588dc2792baf607cefb9aab5f6c357f6740f.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/552f8269813f78c289cee9930a12b84a65682ebc.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "一起摇摆"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/3363c3c0ed2bb155b4669d03d23c6f323105214b.webp"
+				},
+				{
+					"id": 76389,
+					"package_id": 5237,
+					"text": "[桃核_救命]",
+					"url": "https://i0.hdslb.com/bfs/emote/42a37f6ac464e0406b7183ce845a652897cacccf.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/e697fad780aafd23e363615d934f20e776ba44f0.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "救命"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/41023af8213504cf0efd80c124ad903f0d5dd58a.webp"
+				},
+				{
+					"id": 76390,
+					"package_id": 5237,
+					"text": "[桃核_喵呜]",
+					"url": "https://i0.hdslb.com/bfs/emote/36a3943986bd73b26bb6be56a1d44db5f362515a.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/09ccb792663c1cc058853267b017d6ab2cffe8ce.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "喵呜"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/96713fd390bfd6c1a6e76d7048d259b9360864fc.webp"
+				},
+				{
+					"id": 76391,
+					"package_id": 5237,
+					"text": "[桃核_呵呵]",
+					"url": "https://i0.hdslb.com/bfs/emote/b5de60fd4b33bcca776a1a85889d6be26f620c58.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/5a48b6aae6e2738fdfcae3b10275e02c1caffe0f.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "呵呵"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/5d8429bc589d1296c23e6e4aaa76094b6199fb12.webp"
+				},
+				{
+					"id": 76420,
+					"package_id": 5237,
+					"text": "[豆豆子_感谢]",
+					"url": "https://i0.hdslb.com/bfs/emote/4c63390bb6b3e10b1597e78aff84a6bd97cb401d.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/6914600fa390adbf57b82c40b2e4df24b391150a.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "感谢"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/649c7a818310b98902fdabeb819af0016e266164.webp"
+				},
+				{
+					"id": 76423,
+					"package_id": 5237,
+					"text": "[豆豆子_抱歉]",
+					"url": "https://i0.hdslb.com/bfs/emote/1d05738006d2f07dcfdb5adbcfb3e7851ead6592.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/c94403abc41c33d6da0cdb19f884b5b11b32f80d.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "抱歉"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/46bd88e203a8cbdee0513c11b0b01d673d47c902.webp"
+				},
+				{
+					"id": 76426,
+					"package_id": 5237,
+					"text": "[豆豆子_求求你]",
+					"url": "https://i0.hdslb.com/bfs/emote/d79d4dc916984b1776a232c4710241fce574ced6.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/e462f6a6b2634b9001bb72f0879a67bc18f593f1.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "求求你"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/e77d22f656ae96d6c6051bc144ade1dd393e41b9.webp"
+				},
+				{
+					"id": 76427,
+					"package_id": 5237,
+					"text": "[桃核_谢谢您]",
+					"url": "https://i0.hdslb.com/bfs/emote/699845f1310a682a00adefc1788ab592e60bf1c7.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/5a4cb3419125fb833bcbc0a784ec351c68290006.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "谢谢您"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/673f2acc2e0617cffdffac738f752aa798c01176.webp"
+				},
+				{
+					"id": 76448,
+					"package_id": 5237,
+					"text": "[桃核_好棒]",
+					"url": "https://i0.hdslb.com/bfs/emote/1828cc56fe29194914743f469dfe9a055255a868.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/96098867262faacbfebe2eef30073c034362daf1.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "好棒"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/5168f39a02d9743198f7c8948db71b0afb36d42d.webp"
+				},
+				{
+					"id": 76449,
+					"package_id": 5237,
+					"text": "[桃核_晚安]",
+					"url": "https://i0.hdslb.com/bfs/emote/36e75fc128116afeb3cc41625a3800de337a7c30.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/24632df1a76d893de29ecd05e9178aaafe8bbd0a.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "晚安"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/60ab7aafe2a22d1aed281fcf7c593389f0ac4cee.webp"
+				},
+				{
+					"id": 76454,
+					"package_id": 5237,
+					"text": "[桃核_啊！]",
+					"url": "https://i0.hdslb.com/bfs/emote/11e25d2ddeb86b408900804ca3946b4dbea437ad.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/052c48a7f088759cde909f41c77aa24f7a878b4e.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "啊！"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/e107e47d7c18561ce4b051efebddd8cb23c3ee0c.webp"
+				},
+				{
+					"id": 76450,
+					"package_id": 5237,
+					"text": "[豆豆子_大力士]",
+					"url": "https://i0.hdslb.com/bfs/emote/0444ff5b9242ccad0f8c6fa67e811282ad4ae80a.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/97e58e51cca83a3f7617142d2b375cde82580cc9.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "大力士"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/10e5532a4e35d6f28c155e965197f614c4ed5189.webp"
+				},
+				{
+					"id": 76451,
+					"package_id": 5237,
+					"text": "[豆豆子_柔弱]",
+					"url": "https://i0.hdslb.com/bfs/emote/edcfa9344e99d92c98d54f627a07f98e629fcc09.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/d5ce43830199ebce6e4581ab298c4db84ca2e14e.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "柔弱"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/0c9ed90cba98f35ee8be57b7295624b27117609c.webp"
+				},
+				{
+					"id": 76452,
+					"package_id": 5237,
+					"text": "[豆豆子_敬礼]",
+					"url": "https://i0.hdslb.com/bfs/emote/1497bb9e98fdb96213471512cc3a2b7e678bec45.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/3db1475bb5557ba954247a98a7e2d2a25ba7593e.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "敬礼"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/be141670aa9f28f36f73985d7aaf66888b710edd.webp"
+				},
+				{
+					"id": 76453,
+					"package_id": 5237,
+					"text": "[豆豆子_啊？]",
+					"url": "https://i0.hdslb.com/bfs/emote/6e98ac8a603fc8ae49718428f3a476200100e12b.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/19b1dbd5d243aeaf57ae5fea1b2a844c0025220a.gif",
+					"mtime": 1718949296,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "啊？"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/494f2e94b3754da2f9c284b788dfd3cd575119f2.webp"
+				}
+			],
+			"flags": {
+				"no_access": true
+			},
+			"label": null,
+			"package_sub_title": "",
+			"ref_mid": 0,
+			"resource_type": 1
+		}
+	]
+}
