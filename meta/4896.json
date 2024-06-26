@@ -4,7 +4,7 @@
 			"id": 4896,
 			"text": "ALLY李易臻（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/8b7abda56d1f63bbfb0e9776e11cf3bef4e4cf37.png",
-			"mtime": 1717763078,
+			"mtime": 1719376398,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -383,6 +383,24 @@
 					"meta": {
 						"size": 2,
 						"alias": "小声催更"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 76912,
+					"package_id": 4896,
+					"text": "[UPOWER_6075545_下饭视频]",
+					"url": "https://i0.hdslb.com/bfs/garb/8d119b1ba230c4fc69a4909a2ee920ebaad4831c.png",
+					"mtime": 1719376398,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "下饭视频"
 					},
 					"flags": {
 						"no_access": true,
