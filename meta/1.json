@@ -4,7 +4,7 @@
 			"id": 1,
 			"text": "小黄脸",
 			"url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-			"mtime": 1720013603,
+			"mtime": 1720064703,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -2023,6 +2023,111 @@
 							""
 						],
 						"alias": "洛天依"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 77659,
+					"package_id": 1,
+					"text": "[鸣潮_嗯]",
+					"url": "https://i0.hdslb.com/bfs/emote/441b5da4fdf295728f859f9388d528a79f3367bc.png",
+					"mtime": 1720064437,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						],
+						"alias": "嗯"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 77660,
+					"package_id": 1,
+					"text": "[鸣潮_嗨]",
+					"url": "https://i0.hdslb.com/bfs/emote/2589293ba4ba4e60e65569a079819a8578c48378.png",
+					"mtime": 1720064437,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						],
+						"alias": "嗨"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 77661,
+					"package_id": 1,
+					"text": "[鸣潮_祈愿]",
+					"url": "https://i0.hdslb.com/bfs/emote/8ec500d5820f43852d272349cc32927084628376.png",
+					"mtime": 1720064437,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						],
+						"alias": "祈愿"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 77662,
+					"package_id": 1,
+					"text": "[鸣潮_你好]",
+					"url": "https://i0.hdslb.com/bfs/emote/06a9869adc94651e62e1579527d051243dfabcf7.png",
+					"mtime": 1720064437,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						],
+						"alias": "你好"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 77663,
+					"package_id": 1,
+					"text": "[鸣潮_嘿嘿]",
+					"url": "https://i0.hdslb.com/bfs/emote/177eeb8dc85f38ff3d150ab6bb09f431e4e394e5.png",
+					"mtime": 1720064437,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						],
+						"alias": "嘿嘿"
 					},
 					"flags": {
 						"no_access": true,
