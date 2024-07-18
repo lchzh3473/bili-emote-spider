@@ -4,7 +4,7 @@
 			"id": 53,
 			"text": "热词系列一",
 			"url": "https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-			"mtime": 1721286293,
+			"mtime": 1721305247,
 			"type": 1,
 			"attr": 2,
 			"meta": {
@@ -1073,27 +1073,6 @@
 					"activity": null
 				},
 				{
-					"id": 1884,
-					"package_id": 53,
-					"text": "[热词系列_AWSL]",
-					"url": "https://i0.hdslb.com/bfs/emote/c37f88cf799f9badf9d84b7671dc3dd98c0fc0c2.png",
-					"mtime": 1671778768,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							"啊我死了"
-						],
-						"alias": "AWSL"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
 					"id": 2022,
 					"package_id": 53,
 					"text": "[热词系列_递话筒]",
@@ -1107,6 +1086,27 @@
 							"说出你的故事"
 						],
 						"alias": "递话筒"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 1884,
+					"package_id": 53,
+					"text": "[热词系列_AWSL]",
+					"url": "https://i0.hdslb.com/bfs/emote/c37f88cf799f9badf9d84b7671dc3dd98c0fc0c2.png",
+					"mtime": 1671778768,
+					"type": 1,
+					"attr": 2,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							"啊我死了"
+						],
+						"alias": "AWSL"
 					},
 					"flags": {
 						"no_access": true,
