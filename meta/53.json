@@ -13,39 +13,6 @@
 			},
 			"emote": [
 				{
-					"id": 74758,
-					"package_id": 53,
-					"text": "[热词系列_毕业快乐]",
-					"url": "https://i0.hdslb.com/bfs/emote/0f16dd311d729bbab401240f43ddba5d26885620.png",
-					"mtime": 1717733151,
-					"type": 8,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"label_text": "限时",
-						"label_color": "#FF20AAe2",
-						"suggest": [
-							""
-						],
-						"alias": "毕业快乐"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": {
-						"title": "毕业2024",
-						"start_time": 1717741440,
-						"end_time": 1721390400,
-						"jump_url": "https://www.bilibili.com/blackboard/era/TtLYihCicmBCvm2X.html",
-						"unlock_descs": [
-							"看纪录片《毕业2024》满60秒解锁限量表情包",
-							"活动截至2024-07-19 20:00"
-						],
-						"jump_btn_desc": "看纪录片领毕业快乐表情包"
-					}
-				},
-				{
 					"id": 62994,
 					"package_id": 53,
 					"text": "[热词系列_上任鹅城]",
