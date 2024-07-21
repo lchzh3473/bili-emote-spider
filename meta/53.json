@@ -13,6 +13,39 @@
 			},
 			"emote": [
 				{
+					"id": 79389,
+					"package_id": 53,
+					"text": "[热词系列_懂？]",
+					"url": "https://i0.hdslb.com/bfs/emote/df8361d64304d8f047d0a34168a057b677edcb09.png",
+					"mtime": 1721374021,
+					"type": 8,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							""
+						],
+						"alias": "懂？"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "答题同好圈",
+						"start_time": 1721455200,
+						"end_time": 1725120000,
+						"jump_url": "https://www.bilibili.com/blackboard/era/8C1KS66RDxZ1C9m8.html",
+						"unlock_descs": [
+							"分享【同好圈日榜】限时解锁“懂？”表情包",
+							"活动截至2024-09-01 00:00"
+						],
+						"jump_btn_desc": "分享同好圈日榜领表情包"
+					}
+				},
+				{
 					"id": 62994,
 					"package_id": 53,
 					"text": "[热词系列_上任鹅城]",
