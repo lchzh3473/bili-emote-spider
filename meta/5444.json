@@ -4,7 +4,7 @@
 			"id": 5444,
 			"text": "建筑动态表情包",
 			"url": "https://i0.hdslb.com/bfs/emote/e9c5badaeacb9a76fd45c94a10426044aa378724.png",
-			"mtime": 1721804318,
+			"mtime": 1721804479,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -63,17 +63,18 @@
 				{
 					"id": 79924,
 					"package_id": 5444,
-					"text": "[建筑动态表情包_]",
+					"text": "[建筑动态表情包_紫城堡]",
 					"url": "https://i0.hdslb.com/bfs/emote/557407f8c0aa5053d0fa097a8d774985f07cae6f.png",
 					"gif_url": "https://i0.hdslb.com/bfs/emote/d389a93091bfb0f2488b2111d3fca8b2ef687855.gif",
-					"mtime": 1721793602,
+					"mtime": 1721804479,
 					"type": 3,
 					"attr": 0,
 					"meta": {
 						"size": 2,
 						"suggest": [
 							""
-						]
+						],
+						"alias": "紫城堡"
 					},
 					"flags": {
 						"no_access": true,
