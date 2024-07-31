@@ -4,7 +4,7 @@
 			"id": 5409,
 			"text": "崩坏：星穹铁道·匹诺康尼表情包",
 			"url": "https://i0.hdslb.com/bfs/emote/5bf06f07b4221736e9c29f8ed41487eb20aff449.png",
-			"mtime": 1722398501,
+			"mtime": 1722401111,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -204,9 +204,9 @@
 				{
 					"id": 79368,
 					"package_id": 5409,
-					"text": "[崩坏：星穹铁道-匹诺康尼_米莎]",
+					"text": "[崩坏：星穹铁道-匹诺康尼_米沙]",
 					"url": "https://i0.hdslb.com/bfs/emote/0f5baebff1f2ede441349b4fce6d822d80516cbd.png",
-					"mtime": 1721298555,
+					"mtime": 1722401111,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -214,7 +214,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "米莎"
+						"alias": "米沙"
 					},
 					"flags": {
 						"no_access": true,
@@ -582,9 +582,9 @@
 				{
 					"id": 79386,
 					"package_id": 5409,
-					"text": "[崩坏：星穹铁道-匹诺康尼_螺丝]",
+					"text": "[崩坏：星穹铁道-匹诺康尼_螺丝咕姆]",
 					"url": "https://i0.hdslb.com/bfs/emote/2b62642cf95bf20509a5e07296bb72a35b849124.png",
-					"mtime": 1721298555,
+					"mtime": 1722401111,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -592,7 +592,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "螺丝"
+						"alias": "螺丝咕姆"
 					},
 					"flags": {
 						"no_access": true,
