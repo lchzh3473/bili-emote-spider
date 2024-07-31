@@ -4,7 +4,7 @@
 			"id": 5409,
 			"text": "崩坏：星穹铁道·匹诺康尼表情包",
 			"url": "https://i0.hdslb.com/bfs/emote/5bf06f07b4221736e9c29f8ed41487eb20aff449.png",
-			"mtime": 1722316496,
+			"mtime": 1722398501,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -372,9 +372,9 @@
 				{
 					"id": 79376,
 					"package_id": 5409,
-					"text": "[崩坏：星穹铁道-匹诺康尼_饮月]",
+					"text": "[崩坏：星穹铁道-匹诺康尼_丹恒·饮月]",
 					"url": "https://i0.hdslb.com/bfs/emote/476c11f1673dabf3a3a917344ee35806397ebc53.png",
-					"mtime": 1722316496,
+					"mtime": 1722398501,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -382,7 +382,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "饮月"
+						"alias": "丹恒·饮月"
 					},
 					"flags": {
 						"no_access": true,
