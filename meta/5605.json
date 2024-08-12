@@ -4,7 +4,7 @@
 			"id": 5605,
 			"text": "花与情诗动态表情包",
 			"url": "https://i0.hdslb.com/bfs/emote/64dc5797704834edb3ebda5a0b4de23398c83865.png",
-			"mtime": 1723194567,
+			"mtime": 1723446661,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -316,10 +316,10 @@
 				{
 					"id": 82278,
 					"package_id": 5605,
-					"text": "[花与情诗动态表情包_敬礼]",
+					"text": "[花与情诗动态表情包_瑞思拜]",
 					"url": "https://i0.hdslb.com/bfs/emote/f7b00152ded1ea6afe8c2f544ce590dc39772385.png",
 					"gif_url": "https://i0.hdslb.com/bfs/emote/d9acaf5f73ab5ecaaece5243df5507da22655fdd.gif",
-					"mtime": 1723116316,
+					"mtime": 1723446661,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -327,7 +327,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "敬礼"
+						"alias": "瑞思拜"
 					},
 					"flags": {
 						"no_access": true,
@@ -385,10 +385,10 @@
 				{
 					"id": 82281,
 					"package_id": 5605,
-					"text": "[花与情诗动态表情包_鱼眼]",
+					"text": "[花与情诗动态表情包_果咩纳塞]",
 					"url": "https://i0.hdslb.com/bfs/emote/c0ea80d4a041ef947b33684a909c06582ac1ca3a.png",
 					"gif_url": "https://i0.hdslb.com/bfs/emote/d754a7d970ff494324135063c9e3e116b704c925.gif",
-					"mtime": 1723116316,
+					"mtime": 1723446661,
 					"type": 3,
 					"attr": 0,
 					"meta": {
@@ -396,7 +396,7 @@
 						"suggest": [
 							""
 						],
-						"alias": "鱼眼"
+						"alias": "果咩纳塞"
 					},
 					"flags": {
 						"no_access": true,
