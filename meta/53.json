@@ -13,39 +13,6 @@
 			},
 			"emote": [
 				{
-					"id": 82562,
-					"package_id": 53,
-					"text": "[热词系列_变身]",
-					"url": "https://i0.hdslb.com/bfs/emote/26d0bbed0ad176984a928d314b365135f262fd8b.png",
-					"mtime": 1723627060,
-					"type": 8,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"label_text": "限时",
-						"label_color": "#FF20AAe2",
-						"suggest": [
-							""
-						],
-						"alias": "变身"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": {
-						"title": "奥特曼变身",
-						"start_time": 1723698000,
-						"end_time": 1724947199,
-						"jump_url": "https://www.bilibili.com/blackboard/era/a9Fqdhf6FubIT2in.html",
-						"unlock_descs": [
-							"看奥特曼系列视频满60分钟解锁限量表情包",
-							"活动截至2024-08-29 23:59"
-						],
-						"jump_btn_desc": "看奥特曼系列领限时表情包"
-					}
-				},
-				{
 					"id": 62994,
 					"package_id": 53,
 					"text": "[热词系列_上任鹅城]",
