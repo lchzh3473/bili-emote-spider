@@ -191,6 +191,24 @@
 						"unlocked": false
 					},
 					"activity": null
+				},
+				{
+					"id": 83229,
+					"package_id": 5454,
+					"text": "[UPOWER_40569661_给心心]",
+					"url": "https://i0.hdslb.com/bfs/garb/68b31d5e58cee0da9c7c9f0955d22639148f1d48.png",
+					"mtime": 1723842398,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "给心心"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
 				}
 			],
 			"flags": {
