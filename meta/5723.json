@@ -4,7 +4,7 @@
 			"id": 5723,
 			"text": "连下四城动态表情包",
 			"url": "https://i0.hdslb.com/bfs/emote/52b4160efb6a1d8ae095d658625126fc1ba46b43.png",
-			"mtime": 1724668193,
+			"mtime": 1724668235,
 			"type": 3,
 			"attr": 28,
 			"meta": {
@@ -450,6 +450,29 @@
 					},
 					"activity": null,
 					"webp_url": "https://i0.hdslb.com/bfs/emote/f0d6fa4cdecbc3ac4fe697e14ad63c4d3291738f.webp"
+				},
+				{
+					"id": 84278,
+					"package_id": 5723,
+					"text": "[连下四城动态表情包_强烈同意]",
+					"url": "https://i0.hdslb.com/bfs/emote/8ce28af4d6c0e0db5dc35f8bad0fd9e23729d0a0.png",
+					"gif_url": "https://i0.hdslb.com/bfs/emote/6bfa9bde9b3fcc58508f98d9868d77eb67cf7d50.gif",
+					"mtime": 1724668235,
+					"type": 3,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							""
+						],
+						"alias": "强烈同意"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null,
+					"webp_url": "https://i0.hdslb.com/bfs/emote/be5f76dd8f876ce78c582499663335abf445aad4.webp"
 				}
 			],
 			"flags": {
