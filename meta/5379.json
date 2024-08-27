@@ -4,7 +4,7 @@
 			"id": 5379,
 			"text": "早凉（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/a6fe9c03912024545c13004ea7c1ef245fa50e17.png",
-			"mtime": 1724593921,
+			"mtime": 1724711944,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -347,6 +347,24 @@
 					"meta": {
 						"size": 2,
 						"alias": "坐牢"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 84279,
+					"package_id": 5379,
+					"text": "[UPOWER_518817_飞踢]",
+					"url": "https://i0.hdslb.com/bfs/garb/c2bbb4d237f16edb7c399297551165bc0d08a098.png",
+					"mtime": 1724711944,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "飞踢"
 					},
 					"flags": {
 						"no_access": true,
