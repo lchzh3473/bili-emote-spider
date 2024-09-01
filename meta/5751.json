@@ -371,24 +371,6 @@
 						"unlocked": false
 					},
 					"activity": null
-				},
-				{
-					"id": 84853,
-					"package_id": 5751,
-					"text": "[UPOWER_27141298_每日打卡]",
-					"url": "https://i0.hdslb.com/bfs/garb/d78079947de6c77a733f3b579b57763b5e122481.png",
-					"mtime": 1725181728,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "每日打卡"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
 				}
 			],
 			"flags": {
