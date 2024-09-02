@@ -13,6 +13,72 @@
 			},
 			"emote": [
 				{
+					"id": 84385,
+					"package_id": 53,
+					"text": "[热词系列_因为TA善]",
+					"url": "https://i0.hdslb.com/bfs/emote/a4d6b7fe85dd933642a78f256b6a94e336218351.png",
+					"mtime": 1725247624,
+					"type": 8,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							""
+						],
+						"alias": "因为TA善"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "感谢你们在B站守护世界92万次",
+						"start_time": 1725274800,
+						"end_time": 1727712000,
+						"jump_url": "https://www.bilibili.com/blackboard/era/BCOF5fTOZrkoe7kB.html",
+						"unlock_descs": [
+							"为公益项目捐款",
+							"活动截至2024-10-01 00:00"
+						],
+						"jump_btn_desc": "前往活动解锁"
+					}
+				},
+				{
+					"id": 84386,
+					"package_id": 53,
+					"text": "[热词系列_又幸福了]",
+					"url": "https://i0.hdslb.com/bfs/emote/9405999858a6d4da60d6baada081e95db473f3eb.png",
+					"mtime": 1725247624,
+					"type": 8,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							""
+						],
+						"alias": "又幸福了"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "感谢你们在B站守护世界92万次",
+						"start_time": 1725274800,
+						"end_time": 1727712000,
+						"jump_url": "https://www.bilibili.com/blackboard/era/BCOF5fTOZrkoe7kB.html",
+						"unlock_descs": [
+							"为公益项目捐款",
+							"活动截至2024-10-01 00:00"
+						],
+						"jump_btn_desc": "前往活动解锁"
+					}
+				},
+				{
 					"id": 62994,
 					"package_id": 53,
 					"text": "[热词系列_上任鹅城]",
