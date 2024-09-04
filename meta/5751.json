@@ -371,6 +371,78 @@
 						"unlocked": false
 					},
 					"activity": null
+				},
+				{
+					"id": 84761,
+					"package_id": 5751,
+					"text": "[UPOWER_27141298_手拿管]",
+					"url": "https://i0.hdslb.com/bfs/garb/9329e5fb9979cbb3bd61d059d675d84a3181778b.png",
+					"mtime": 1725480546,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "手拿管"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 84761,
+					"package_id": 5751,
+					"text": "[UPOWER_27141298_手拿管]",
+					"url": "https://i0.hdslb.com/bfs/garb/9329e5fb9979cbb3bd61d059d675d84a3181778b.png",
+					"mtime": 1725480546,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "手拿管"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 85053,
+					"package_id": 5751,
+					"text": "[UPOWER_27141298_拍照]",
+					"url": "https://i0.hdslb.com/bfs/garb/c1059a8b4bb893d4007ea33a8cfd3fdf193c15af.png",
+					"mtime": 1725480544,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "拍照"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 85151,
+					"package_id": 5751,
+					"text": "[UPOWER_27141298_真棒]",
+					"url": "https://i0.hdslb.com/bfs/garb/63f65fdf5d037ca15a4127413919a49e92840d40.png",
+					"mtime": 1725480541,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "真棒"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
 				}
 			],
 			"flags": {
