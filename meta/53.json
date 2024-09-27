@@ -4,7 +4,7 @@
 			"id": 53,
 			"text": "热词系列一",
 			"url": "https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-			"mtime": 1725432581,
+			"mtime": 1727321668,
 			"type": 1,
 			"attr": 2,
 			"meta": {
@@ -163,6 +163,29 @@
 					"activity": null
 				},
 				{
+					"id": 14690,
+					"package_id": 53,
+					"text": "[热词表情_世萌双冠]",
+					"url": "https://i0.hdslb.com/bfs/emote/8d962fcf0b18761d5f4315a49b7ae428da08cf4a.png",
+					"mtime": 1675347672,
+					"type": 1,
+					"attr": 2,
+					"meta": {
+						"size": 2,
+						"suggest": [
+							"炮姐",
+							"萌王",
+							"御坂美琴"
+						],
+						"alias": "世萌双冠"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 4649,
 					"package_id": 53,
 					"text": "[热词系列_谢谢老师]",
@@ -239,29 +262,6 @@
 							""
 						],
 						"alias": "干杯"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 14690,
-					"package_id": 53,
-					"text": "[热词表情_世萌双冠]",
-					"url": "https://i0.hdslb.com/bfs/emote/8d962fcf0b18761d5f4315a49b7ae428da08cf4a.png",
-					"mtime": 1675347672,
-					"type": 1,
-					"attr": 2,
-					"meta": {
-						"size": 2,
-						"suggest": [
-							"炮姐",
-							"萌王",
-							"御坂美琴"
-						],
-						"alias": "世萌双冠"
 					},
 					"flags": {
 						"no_access": true,
