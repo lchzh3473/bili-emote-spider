@@ -4,7 +4,7 @@
 			"id": 4717,
 			"text": "可洛Cro_（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/329ba04f6f2acbe428bc3fa71f51a50a9ef3c8a8.png",
-			"mtime": 1726527669,
+			"mtime": 1727612827,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -625,24 +625,6 @@
 					"activity": null
 				},
 				{
-					"id": 74465,
-					"package_id": 4717,
-					"text": "[UPOWER_3494361880856991_期待]",
-					"url": "https://i0.hdslb.com/bfs/garb/d7b69696db1692745cd101dafc159ee62cc1ee2b.png",
-					"mtime": 1725845185,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "期待"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
 					"id": 74469,
 					"package_id": 4717,
 					"text": "[UPOWER_3494361880856991_生气]",
@@ -787,24 +769,6 @@
 					"activity": null
 				},
 				{
-					"id": 74854,
-					"package_id": 4717,
-					"text": "[UPOWER_3494361880856991_快哭了]",
-					"url": "https://i0.hdslb.com/bfs/garb/1293c75b2e73e72e8b10131b3534871c0d1266fd.png",
-					"mtime": 1725845164,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "快哭了"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
 					"id": 83970,
 					"package_id": 4717,
 					"text": "[UPOWER_3494361880856991_舔舔]",
@@ -859,42 +823,6 @@
 					"activity": null
 				},
 				{
-					"id": 85592,
-					"package_id": 4717,
-					"text": "[UPOWER_3494361880856991_哼哼]",
-					"url": "https://i0.hdslb.com/bfs/garb/ed8341141db8e37293da21e5f348f83401cddb7d.png",
-					"mtime": 1725845122,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "哼哼"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 85593,
-					"package_id": 4717,
-					"text": "[UPOWER_3494361880856991_仓鼠]",
-					"url": "https://i0.hdslb.com/bfs/garb/6a0e9883ebc89e4b5786bb75a42bcc254ea3aa61.png",
-					"mtime": 1725845118,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "仓鼠"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
 					"id": 85594,
 					"package_id": 4717,
 					"text": "[UPOWER_3494361880856991_呆呆]",
@@ -931,60 +859,6 @@
 					"activity": null
 				},
 				{
-					"id": 85597,
-					"package_id": 4717,
-					"text": "[UPOWER_3494361880856991_慌张]",
-					"url": "https://i0.hdslb.com/bfs/garb/05fcf99a6e8c728dacb63394be7d7078cd19c8d3.png",
-					"mtime": 1725845181,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "慌张"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 85598,
-					"package_id": 4717,
-					"text": "[UPOWER_3494361880856991_呃呃]",
-					"url": "https://i0.hdslb.com/bfs/garb/879c0c0ac90408a8b8fb4bdb13e54a3eddca5c62.png",
-					"mtime": 1725845177,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "呃呃"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 85599,
-					"package_id": 4717,
-					"text": "[UPOWER_3494361880856991_盒盒盒]",
-					"url": "https://i0.hdslb.com/bfs/garb/86136f784d2f93ce3af0c31f2937046ad9d8bad3.png",
-					"mtime": 1725845172,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "盒盒盒"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
 					"id": 85601,
 					"package_id": 4717,
 					"text": "[UPOWER_3494361880856991_开心]",
@@ -995,24 +869,6 @@
 					"meta": {
 						"size": 2,
 						"alias": "开心"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 85602,
-					"package_id": 4717,
-					"text": "[UPOWER_3494361880856991_酷宝]",
-					"url": "https://i0.hdslb.com/bfs/garb/3d637d8a902ab189ec41d829df43c926483782ec.png",
-					"mtime": 1725845154,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "酷宝"
 					},
 					"flags": {
 						"no_access": true,
