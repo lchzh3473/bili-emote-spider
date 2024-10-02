@@ -4,7 +4,7 @@
 			"id": 53,
 			"text": "热词系列一",
 			"url": "https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
-			"mtime": 1727321668,
+			"mtime": 1727797693,
 			"type": 1,
 			"attr": 2,
 			"meta": {
@@ -12,6 +12,39 @@
 				"item_id": 1039
 			},
 			"emote": [
+				{
+					"id": 87213,
+					"package_id": 53,
+					"text": "[热词系列_再战500年]",
+					"url": "https://i0.hdslb.com/bfs/emote/33fac59798d7fba814d0be00746617eef4130ccf.png",
+					"mtime": 1727797693,
+					"type": 8,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"label_text": "限时",
+						"label_color": "#FF20AAe2",
+						"suggest": [
+							""
+						],
+						"alias": "再战500年"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": {
+						"title": "超电磁炮15周年庆",
+						"start_time": 1727798400,
+						"end_time": 1727884799,
+						"jump_url": "https://www.bilibili.com/blackboard/topic/activity-mj8B9HQn1i.html",
+						"unlock_descs": [
+							"10月2日当日带话题#超电磁炮动画15周年快乐#发布动态，即可领取限量热词表情包【再战500年】一枚",
+							"活动截至2024-10-02 23:59"
+						],
+						"jump_btn_desc": "超电磁炮15周年表情包限时领取"
+					}
+				},
 				{
 					"id": 62994,
 					"package_id": 53,
