@@ -4,7 +4,7 @@
 			"id": 1,
 			"text": "小黄脸",
 			"url": "https://i0.hdslb.com/bfs/emote/3087d273a78ccaff4bb1e9972e2ba2a7583c9f11.png",
-			"mtime": 1727321587,
+			"mtime": 1727974050,
 			"type": 1,
 			"attr": 322,
 			"meta": {
@@ -89,6 +89,27 @@
 							""
 						],
 						"alias": "金箍"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 87214,
+					"package_id": 1,
+					"text": "[胆大党_微笑]",
+					"url": "https://i0.hdslb.com/bfs/emote/24d13e3f1713d854f93416ac11b3c5ceb4f0120f.png",
+					"mtime": 1727974050,
+					"type": 1,
+					"attr": 0,
+					"meta": {
+						"size": 1,
+						"suggest": [
+							""
+						],
+						"alias": "微笑"
 					},
 					"flags": {
 						"no_access": true,
