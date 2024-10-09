@@ -85,6 +85,24 @@
 					"activity": null
 				},
 				{
+					"id": 91071,
+					"package_id": 4676,
+					"text": "[UPOWER_37029661_警告]",
+					"url": "https://i0.hdslb.com/bfs/garb/b90e937c069d2b5cacaa522dc940c4e9af8f8953.png",
+					"mtime": 1728435836,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "警告"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 67004,
 					"package_id": 4676,
 					"text": "[UPOWER_37029661_可]",
@@ -157,6 +175,24 @@
 					"activity": null
 				},
 				{
+					"id": 91072,
+					"package_id": 4676,
+					"text": "[UPOWER_37029661_爱你]",
+					"url": "https://i0.hdslb.com/bfs/garb/dad7d20868019f07f88a9cb4c8aaf627b85def32.png",
+					"mtime": 1728435829,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "爱你"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 67009,
 					"package_id": 4676,
 					"text": "[UPOWER_37029661_好]",
@@ -203,6 +239,60 @@
 					"meta": {
 						"size": 2,
 						"alias": "惊讶"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 67012,
+					"package_id": 4676,
+					"text": "[UPOWER_37029661_超凶]",
+					"url": "https://i0.hdslb.com/bfs/garb/3cd70ec57fea4e903f485f752f16adc05af04b94.png",
+					"mtime": 1728435823,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "超凶"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 91074,
+					"package_id": 4676,
+					"text": "[UPOWER_37029661_麻了]",
+					"url": "https://i0.hdslb.com/bfs/garb/8951990bb4493e8c578dadd780c82f94be843e78.png",
+					"mtime": 1728435816,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "麻了"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
+					"id": 91075,
+					"package_id": 4676,
+					"text": "[UPOWER_37029661_真好笑]",
+					"url": "https://i0.hdslb.com/bfs/garb/386c7ecf3b6e5fc98fe4c8301efcca24d68e4862.png",
+					"mtime": 1728435807,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "真好笑"
 					},
 					"flags": {
 						"no_access": true,
