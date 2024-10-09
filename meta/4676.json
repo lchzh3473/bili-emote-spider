@@ -4,7 +4,7 @@
 			"id": 4676,
 			"text": "小鹿Lawrence（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/600e73755c87ceb470d184a8eaaba31394675358.png",
-			"mtime": 1728443136,
+			"mtime": 1728448577,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -167,24 +167,6 @@
 					"meta": {
 						"size": 2,
 						"alias": "哼"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 67009,
-					"package_id": 4676,
-					"text": "[UPOWER_37029661_好]",
-					"url": "https://i0.hdslb.com/bfs/garb/099ae23a62c6f23542b202f70e6bc4fbf0c4faa2.png",
-					"mtime": 1710669418,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "好"
 					},
 					"flags": {
 						"no_access": true,
