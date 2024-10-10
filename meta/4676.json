@@ -4,7 +4,7 @@
 			"id": 4676,
 			"text": "小鹿Lawrence（充电）",
 			"url": "https://i0.hdslb.com/bfs/garb/600e73755c87ceb470d184a8eaaba31394675358.png",
-			"mtime": 1728448577,
+			"mtime": 1728580230,
 			"type": 12,
 			"attr": 28,
 			"meta": {
@@ -131,24 +131,6 @@
 					"meta": {
 						"size": 2,
 						"alias": "害怕"
-					},
-					"flags": {
-						"no_access": true,
-						"unlocked": false
-					},
-					"activity": null
-				},
-				{
-					"id": 67006,
-					"package_id": 4676,
-					"text": "[UPOWER_37029661_拜托]",
-					"url": "https://i0.hdslb.com/bfs/garb/10c03e980ca0349f1db427affff083af0c160c22.png",
-					"mtime": 1710669418,
-					"type": 12,
-					"attr": 0,
-					"meta": {
-						"size": 2,
-						"alias": "拜托"
 					},
 					"flags": {
 						"no_access": true,
