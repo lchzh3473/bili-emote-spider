@@ -139,6 +139,24 @@
 					"activity": null
 				},
 				{
+					"id": 91292,
+					"package_id": 4676,
+					"text": "[UPOWER_37029661_沉默]",
+					"url": "https://i0.hdslb.com/bfs/garb/a59644e507349a4e9b3bab45a83231c2fbb50549.png",
+					"mtime": 1728625785,
+					"type": 12,
+					"attr": 0,
+					"meta": {
+						"size": 2,
+						"alias": "沉默"
+					},
+					"flags": {
+						"no_access": true,
+						"unlocked": false
+					},
+					"activity": null
+				},
+				{
 					"id": 67007,
 					"package_id": 4676,
 					"text": "[UPOWER_37029661_哼]",
